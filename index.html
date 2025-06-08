@@ -17,13 +17,22 @@
     <title>Guanting Dong's Homepage|董冠霆的个人主页</title>
  <style>
         body {
-            max-width: 1000px;  /* Increased from default */
-            margin: 0 auto;     /* Centers the content */
-            padding: 20px;      /* Added some padding */
-        }
-        #layout-content {
-            width: 100%;        /* Full width of the body */
-        }
+	    max-width: 1000px;  /* 最大宽度 */
+	    margin: 0 auto;     /* 水平居中 */
+	    padding: 20px;      /* 添加内边距 */
+	    background-color: #f9f9f9; /* 可选：设置背景颜色 */
+	}
+	
+	#layout-content {
+	    width: 100%;        /* 占满整个容器 */
+	    padding: 20px;      /* 添加内边距，增加上下间距 */
+	    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 可选：添加阴影效果 */
+	}
+	
+	/* 增加标题和内容之间的间距 */
+	#toptitle {
+	    margin-bottom: 20px; /* 增加下边距 */
+	}
         table {
             width: 100%;        /* Full width table */
         }
@@ -46,19 +55,19 @@
 </head>
 
 <body>
+    <div id="layout-content" style="margin-top: 25px;">
 
-<div id="layout-content" style="margin-top:25px">
+        <div id="toptitle">
+            <h1>Guanting Dong (董冠霆)&nbsp;</h1>
+        </div>
 
-<table><tbody><tr>
-    <td width="670">
-        <div id="toptitle"><h1>Guanting Dong (董冠霆)&nbsp;</h1></div>
         <h3>Ph.D. Student</h3>  
         <p>
             Dept. of Artificial Intelligence <br>
             Renmin University of China (RUC) <br>
             Beijing, China, 100084. <br>
             WeChat: dongguanting990611 <br>
-            Email:  <a href="mailto:dongguanting@ruc.edu.cn">dongguanting@ruc.edu.cn</a> <br>
+            Email: <a href="mailto:dongguanting@ruc.edu.cn">dongguanting@ruc.edu.cn</a> <br>
             <a href="https://github.com/dongguanting">[Github]</a>
             <a href="https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a>
             <a href="https://www.semanticscholar.org/author/Guanting-Dong/51490462?sort=influence">[Semantic Scholar]</a> 
@@ -679,6 +688,7 @@ Qwen Team (129 authors including <strong>Guanting Dong</strong>)<br />
 总访客数<span id="busuanzi_value_site_uv"></span>人次 <br>
 
 <a href="https://clustrmaps.com/site/1blbh"  title="Visit tracker for kunkuang.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=Z8dyJa5Yjz2Z_i_LEAbfY0-TbrPurcZYl5i6ii_5Xbw&cl=ffffff" /></a>
+</div>
 </body>
 
 </html>
