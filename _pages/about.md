@@ -89,6 +89,7 @@ redirect_from:
 ### 2022
 - ``ICASSP 2022`` [A Robust Contrastive Alignment Method for Multi-domain Text Classification](https://ieeexplore.ieee.org/abstract/document/9747192), Xuefeng Li, Hao Lei, Liwen Wang, **Guanting Dong**, Jinzheng Zhao, Jiachi Liu, Weiran Xu, Chunyun Zhang.
 
+<span class='anchor' id='experiences'></span>
 # 💻 Experiences
 - 2025.4 - Present, <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> Kuaishou, Foundation LLM Team, Research Intern on Deep Search & Research Agents
 - 2023.6 - 2024.8, <img src="/images/alibaba.png" style="width: 2.4em;"> Alibaba, Qwen Team, Research Intern on Alignment & Reasoning of Large Language Models
@@ -100,6 +101,7 @@ redirect_from:
 - 2017.9 - 2021.6, <img src="/images/bupt.webp" style="width: 1em;"> B.Eng, Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing.
 - 2018.7 - 2018.8, <img src="/images/oxford.webp" style="width: 1em;"> Summer Exchange Internship, University of Oxford, UK.
 
+<span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 - **[1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China](http://ai.ruc.edu.cn/newslist/notice/20240301100.html)**, 2024
 - **[Outstanding Graduates of Beijing(Top 1%)](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)**, 2024
@@ -110,6 +112,7 @@ redirect_from:
 - **Gold Award for College Music Festival Instrumental Performance, Beijing**, 2021
 - **The Mathematical Contest in Modeling, Honorable Mention**, 2021
 
+<span class='anchor' id='academic-services'></span>
 # 🔍 Academic Services
 - **SPC Reviewer for**: AAAI
 - **PC Reviewer for**: ICLR, ACL, EMNLP, NAACL, COLING
