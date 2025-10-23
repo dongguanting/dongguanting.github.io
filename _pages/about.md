@@ -13,6 +13,7 @@ redirect_from:
 - I am currently a 2nd year PhD student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
 - Research interests: Agentic Reinforcement Learning, Deep Search & Research Agent, Alignment for Large Language Models
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.10*: We introduce [AEPO](https://arxiv.org/pdf/2507.19849), which designed to balance entropy for multi-turn LLM-based agent training! AEPO is honored to be featured as [🤗 Hugging Face Daily Paper #2](https://huggingface.co/papers/2510.14545)！
 - *2024.07*: We introduce [ARPO](https://arxiv.org/pdf/2507.19849), a novel agentic RL algorithm tailored for training multi-turn LLM-based agents! ARPO is honored to be featured as [🤗 Hugging Face Daily Paper #1](https://huggingface.co/papers/2507.19849)！
@@ -33,6 +34,7 @@ redirect_from:
 - *2024.05*: Four papers have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
 - *2024.02*: One paper have been accepted by NAACL 2024!
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 

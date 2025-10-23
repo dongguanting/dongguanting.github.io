@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Guanting Dong"
-description              : "Deep Search & Research Agent; Alignment & Reasoning of Large Language Models"
-repository               : "daod.github.io"
-google_scholar_stats_use_cdn : false
+description              : "Agentic RL; Deep Search Agent; LLM Alignment"
+repository               : "dongguanting.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
