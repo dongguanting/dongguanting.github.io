@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-I am currently a 2nd year PhD student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
+I am currently a 2nd year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
 
 Prior to that, I was a research intern at [Kuaishou Klear Team](https://github.com/Kwai-Klear), [Alibaba Qwen Team](https://github.com/QwenLM) and Meituan NLP center. I have published over **40+ papers in top-tier AI conferences and journals (10+ first author paper)**, including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, IP&M etc.
 
@@ -50,7 +50,7 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- 2024.9 - Present, <img src="/images/ruc.webp" style="width: 1em;"> PhD, Gaoling School of Artificial Intelligence, Renmin University of China.
+- 2024.9 - Present, <img src="/images/ruc.webp" style="width: 1em;"> Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China.
 - 2021.9 - 2024.6, <img src="/images/bupt.webp" style="width: 1em;"> M.Eng, Artificial Intelligence, Beijing University of Posts and Telecommunications.
 - 2017.9 - 2021.6, <img src="/images/bupt.webp" style="width: 1em;"> B.Eng, Information and Communication Engineering, Beijing University of Posts and Telecommunications.
 - 2018.7 - 2018.8, <img src="/images/oxford.webp" style="width: 1em;"> Summer Exchange Internship, University of Oxford.
