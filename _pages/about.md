@@ -18,7 +18,7 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 
 **Research Interests:**
 - Agentic Reinforcement Learning
-- Deep Search & Research Agent
+- Deep Search Agent
 - Alignment for Large Language Models
 
 
@@ -50,7 +50,7 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- 2024.9 - Present, <img src="/images/ruc.webp" style="width: 1em;"> Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China.
+- 2024.9 - Now, <img src="/images/ruc.webp" style="width: 1em;"> Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China.
 - 2021.9 - 2024.6, <img src="/images/bupt.webp" style="width: 1em;"> M.Eng, Artificial Intelligence, Beijing University of Posts and Telecommunications.
 - 2017.9 - 2021.6, <img src="/images/bupt.webp" style="width: 1em;"> B.Eng, Information and Communication Engineering, Beijing University of Posts and Telecommunications.
 - 2018.7 - 2018.8, <img src="/images/oxford.webp" style="width: 1em;"> Summer Exchange Internship, University of Oxford.
@@ -59,10 +59,10 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
 - 2025.4 - Present, <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> Kuaishou, Foundation LLM Team
-  - Research Intern on Deep Search & Research Agents
+  - Research Intern on Agentic RL & Deep Search Agent
   - Mentor: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)
 
-- 2023.6 - 2024.8, <img src="/images/alibaba.png" style="width: 2.4em;"> Alibaba, Qwen Team 
+- 2023.6 - 2024.8, <img src="/images/alibaba.png" style="width: 2.4em;"> Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Team 
   - Research Intern on Alignment & Reasoning of Large Language Models
   - Mentor: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)
 
