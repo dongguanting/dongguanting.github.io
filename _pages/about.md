@@ -118,7 +118,7 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 
 ### 2022
 - ``EMNLP 2022`` [Exploiting domain-slot related keywords description for Few-Shot Cross-Domain Dialogue State Tracking](https://aclanthology.org/2022.emnlp-main.157.pdf), Gao Qixiang, **Guanting Dong**<sup>\#</sup>, Yutao Mou, Liwen Wang, Chen Zeng, Daichi Guo, Mingyang Sun, Weiran Xu.
-- ``EMNLP 2022 Findings`` [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://aclanthology.org/2022.findings-emnlp.473.pdf), Gang Zhao, **Guanting Dong**, Yidong Shi, Haolong Yan, Weiran Xu, Si Li. <a href="https://github.com/GangZhao98/GEI"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GangZhao98/GEI?style=flat&logo=github&logoColor=black&labelColor=white&color=white"></a>
+- ``EMNLP 2022 Findings`` [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://aclanthology.org/2022.findings-emnlp.473.pdf), Gang Zhao, **Guanting Dong**, Yidong Shi, Haolong Yan, Weiran Xu, Si Li. <a href="https://github.com/GangZhao98/GEI"><img alt="GEI" src="https://img.shields.io/badge/GEI-white?logo=github&logoColor=black&style=flat&labelColor=white"></a>
 - ``COLING 2022`` [PSSAT: A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling](https://aclanthology.org/2022.coling-1.473.pdf), **Guanting Dong**, Daichi Guo, Liwen Wang, Xuefeng Li, Zechen Wang, Chen Zeng, Keqing He, Jinzheng Zhao, Hao Lei, Xinyue Cui, Yi Huang, Junlan Feng, Weiran Xu.
 
 ## As a Co-author
