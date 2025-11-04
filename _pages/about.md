@@ -59,8 +59,8 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
 
-- 2025.11 - Present, <img src="/images/bytedance.png" style="width: 2.8em;"> ByteDance, Seed General Agent Team
-  - Research Intern on Agentic RL & General Agent
+- 2025.11 - Present, <img src="/images/bytedance.png" style="width: 3.1em;"> ByteDance, Seed General Agent Team
+  - Research Intern on RL for General Agent
   - Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)
 
 - 2025.4 - 2025.11, <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> Kuaishou, Foundation LLM Team
