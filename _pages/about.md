@@ -58,7 +58,12 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
-- 2025.4 - Present, <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> Kuaishou, Foundation LLM Team
+
+- 2025.11 - Present, <img src="/images/bytedance.png" style="width: 2.8em;"> ByteDance, Seed Foundation Agent Team
+  - Research Intern on Agentic RL & Deep Search Agent
+  - Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)
+
+- 2025.4 - 2025.11, <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> Kuaishou, Foundation LLM Team
   - Research Intern on Agentic RL & Deep Search Agent
   - Mentor: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)
 
