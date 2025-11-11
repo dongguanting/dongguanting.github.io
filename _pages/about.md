@@ -60,11 +60,11 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 # 💻 Experiences
 
 - 2025.11 - Present, <img src="/images/bytedance.png" style="width: 3.3em;">ByteDance, Seed General Agent Team
-  - Research Intern on RL for General Agent
+  - Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span>
   - Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)
 
 - 2025.4 - 2025.11, <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> Kuaishou, Foundation LLM Team
-  - Research Intern on Agentic RL & Deep Search Agent
+  - Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span>
   - Mentor: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)
 
 - 2023.6 - 2024.8, <img src="/images/alibaba.png" style="width: 2.4em;"> Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team 
