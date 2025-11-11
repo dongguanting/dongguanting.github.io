@@ -12,7 +12,7 @@ redirect_from:
 # About me
 I am currently a 2nd year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). 
 
-Prior to that, I was a research intern at [Kuaishou Klear Team](https://github.com/Kwai-Klear), [Alibaba Qwen Team](https://github.com/QwenLM) and Meituan NLP center. I have published over **40+ papers in top-tier AI conferences and journals (10+ first author paper)**, including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, IP&M etc.
+I’m currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern roles with the the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and the Meituan NLP Center. I have published over **40+ papers in top-tier AI conferences and journals (10+ first author paper)**, including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, IP&M etc.
 
 My long-term goal is to explore an **automated, scalable, and safe way that fosters exceptional intelligence to achieve AGI**.
 
@@ -20,11 +20,6 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 - Agentic Reinforcement Learning
 - Deep Search Agent
 - Alignment for Large Language Models
-
-
-
-
-
 
 
 
