@@ -25,7 +25,7 @@ My long-term goal is to explore an **automated, scalable, and safe way that fost
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2024.10*: We introduce [AEPO](https://arxiv.org/pdf/2507.19849), designed to balance entropy for multi-turn LLM agent training! Featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)！
+- *2025.10*: We introduce [AEPO](https://arxiv.org/pdf/2507.19849), designed to balance entropy for multi-turn LLM agent training! Featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)！
 - *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) has been accepted by NeurIPS 2025!  Feel free to check out our [Demo](https://github.com/RUC-NLPIR/WebThinker)!
 - *2024.08*: We introduce [ARPO](https://arxiv.org/pdf/2507.19849), an agentic RL algorithm for multi-turn LLM agents! Featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)！
 - *2025.08*: 🔍 [Search-o1](https://arxiv.org/abs/2501.05366) has been accepted by EMNLP 2025 as Oral Presentation!
