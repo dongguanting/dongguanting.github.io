@@ -40,45 +40,40 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='education'></span>
 # 📖 Education
 
-- <span style="font-size: 0.869em;">**2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**</span>  
-  <span style="font-size: 0.869em;">Gaoling School of Artificial Intelligence, Renmin University of China</span>
+- **2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**  
+  Gaoling School of Artificial Intelligence, Renmin University of China
 
-- <span style="font-size: 0.869em;">**2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**</span>  
-  <span style="font-size: 0.869em;">Beijing University of Posts and Telecommunications</span>
+- **2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**  
+  Beijing University of Posts and Telecommunications
 
-- <span style="font-size: 0.869em;">**2017.09 - 2021.06** | <img src="/images/bupt.webp" style="width: 1em;"> **B.Eng in Information and Communication Engineering**</span>  
-  <span style="font-size: 0.869em;">Beijing University of Posts and Telecommunications</span>
+- **2017.09 - 2021.06** | <img src="/images/bupt.webp" style="width: 1em;"> **B.Eng in Information and Communication Engineering**  
+  Beijing University of Posts and Telecommunications
 
-- <span style="font-size: 0.869em;">**2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**</span>  
-  <span style="font-size: 0.869em;">University of Oxford</span>
+- **2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**  
+  University of Oxford
 
 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
 
-- <span style="font-size: 0.869em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**</span>  
-  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span>  
-  <span style="font-size: 0.869em;">- Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
+- **2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**  
+  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
 
-- <span style="font-size: 0.869em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
-  <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span>  
-  <span style="font-size: 0.869em;">- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
+- **2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**  
+  <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span><br>- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
 
-- <span style="font-size: 0.869em;">**2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**</span>  
-  <span style="font-size: 0.869em;">- Research Intern on Alignment & Reasoning of Large Language Models  
-  <span style="font-size: 0.869em;">- Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
+- **2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**  
+  <span style="font-size: 0.869em;">- Research Intern on Alignment & Reasoning of Large Language Models<br>- Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
 
-- <span style="font-size: 0.869em;">**2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**</span>  
-  <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation  
-  <span style="font-size: 0.869em;">- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
+- **2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**  
+  <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation<br>- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
 
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 
 ### Grants 
-- **National Natural Science Foundation of China**, Fundamental Research Project for PhD Students  
-  国家自然科学基金青年学生基础研究项目(博士生), 2026.01-2027.12
+- **National Natural Science Foundation of China**, Fundamental Research Project for PhD Students, 国家自然科学基金青年学生基础研究项目(博士生), 2026.01-2027.12
 
 ### Scholarships 
 - **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%), 2025
@@ -135,8 +130,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
-# 📝 Selected Publications（**[Full List](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)**
-）
+# 📝 Selected Publications（**[Full List]**(https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 
 - [**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**](https://arxiv.org/abs/2504.21776)\
 <span style="font-size: 0.869em;"> Xiaoxi Li, Jiajie Jin, **Guanting Dong**, Hongjin Qian, Yongkang Wu, Ji-Rong Wen, Yutao Zhu, and Zhicheng Dou.</span>\
@@ -221,15 +215,15 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 # 🔍 Academic Services
 
 ### Journal Reviewer
-- Knowledge-Based Systems (KBS)
+- <span style="font-size: 0.869em;">Knowledge-Based Systems (KBS)</span>
 
 ### Senior Program Committee (SPC)
-- AAAI: 2026
+- <span style="font-size: 0.869em;">AAAI: 2026</span>
 
 ### Program Committee Member / Reviewer
-- **Top-tier ML Conferences**: NeurIPS (2024–2025), ICML (2025), ICLR (2023–2026)
-- **Top-tier AI/DM Conferences**: KDD (2025), SIGIR (2025), WWW (2025–2026), CIKM (2024–2025), AAAI (2026)
-- **Top-tier NLP Conferences**: ACL ARR (2024–2026)
+- <span style="font-size: 0.869em;">**Top-tier ML Conferences**: NeurIPS (2024–2025), ICML (2025), ICLR (2023–2026)</span>
+- <span style="font-size: 0.869em;">**Top-tier AI/DM Conferences**: KDD (2025), SIGIR (2025), WWW (2025–2026), CIKM (2024–2025), AAAI (2026)</span>
+- <span style="font-size: 0.869em;">**Top-tier NLP Conferences**: ACL ARR (2024–2026)</span>
 
 
 <hr style="margin-top: 3em;">
