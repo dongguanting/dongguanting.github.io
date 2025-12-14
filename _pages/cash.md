@@ -18,23 +18,28 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 **My long-term goal is to develop automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.**
 
 ### Research Interests
-- **Agentic Reinforcement Learning** — Training general agents through RL-based optimization
-- **Deep Search Agents** — Enhancing reasoning with web-scale information Seeking
+- **Agentic Reinforcement Learning** — Training agents through RL-based optimization
+- **Deep Search Agents** — Enhancing reasoning with web-scale information retrieval
 - **Alignment for Large Language Models** — Improving instruction-following and preference alignment
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
+- *2025.10*: 🎉 [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
 - *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) accepted by **NeurIPS 2025**! A powerful open-source deep research agent. Check out our [demo](https://github.com/RUC-NLPIR/WebThinker)!
-- *2025.08*: [ARPO](https://arxiv.org/pdf/2507.19849) featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)! An agentic RL algorithm for multi-turn LLM agents.
+- *2025.08*: 🎯 [ARPO](https://arxiv.org/pdf/2507.19849) featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)! An agentic RL algorithm for multi-turn LLM agents.
 - *2025.08*: 🔍 [Search-o1](https://arxiv.org/abs/2501.05366) accepted by **EMNLP 2025** as **Oral Presentation**!
-- *2025.05*: **Four papers** accepted by **ACL 2025**!
-- *2025.05*: Released [Tool-Star](https://arxiv.org/abs/2505.16410), an LLM-brained multi-tool reasoner via RL! Check out our [project](https://github.com/dongguanting/Tool-Star).
+- *2025.05*: 📝 **Four papers** accepted by **ACL 2025**!
+- *2025.05*: 🌟 Released [Tool-Star](https://arxiv.org/abs/2505.16410), an LLM-brained multi-tool reasoner via RL! Check out our [project](https://github.com/dongguanting/Tool-Star).
 - *2025.02*: ⚡ [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) now supports multimodal retrievers and generators!
-- *2025.01*: [DPA-RAG](https://arxiv.org/pdf/2406.18676) accepted by **WWW 2025** — aligning diverse preferences in RAG systems.
-- *2025.01*: **Two papers** accepted by **ICLR 2025**! [AutoIF](https://arxiv.org/pdf/2406.13542) is the secret behind <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen's instruction-following alignment.
+- *2025.01*: 📊 [DPA-RAG](https://arxiv.org/pdf/2406.18676) accepted by **WWW 2025** — aligning diverse preferences in RAG systems.
+- *2025.01*: 🎊 **Two papers** accepted by **ICLR 2025**! [AutoIF](https://arxiv.org/pdf/2406.13542) is the secret behind <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen's instruction-following alignment.
+- *2024.12*: 🏆 Honored to be a contributor to **Qwen2.5** <img src="/images/qwen_logo.webp" style="width: 1em;" />, a series of LLMs designed to meet diverse needs!
+- *2024.09*: 🎓 Began Ph.D. studies at GSAI, Renmin University of China.
+- *2024.09*: 📄 **Two papers** accepted by **EMNLP 2024**!
+- *2024.07*: 📢 Released technical report of **Qwen2** <img src="/images/qwen_logo.webp" style="width: 1em;" />, a large-scale language model developed by Alibaba Group.
+- *2024.05*: 🇹🇭 **Four papers** accepted by **ACL 2024**! Looking forward to seeing you in Bangkok!
 
 
 <span class='anchor' id='education'></span>
@@ -76,20 +81,19 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 
-### Grants 
+### Grants & Fellowships
 - **National Natural Science Foundation of China**, Fundamental Research Project for PhD Students  
   国家自然科学基金青年学生基础研究项目(博士生), 2026.01-2027.12
 
-### Scholarships 
+### Scholarships & Recognition
 - **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%), 2025
 - **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html), 2024
 - **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html), 2024
 - **National Scholarship for Master Students** (硕士生国家奖学金, Top 1%), [Link](https://mp.weixin.qq.com/s/FhWj5PFPdgBfzp2QI8F28Q), 2023
 - **Excellent First-class Scholarship** for Master Students, BUPT (Two times), 2021, 2022
 
-### Competitions
-- **2nd Award on Track 1** of LiveRAG Workshop Challenge, SIGIR 2025, [Link](https://liverag.tii.ae/)
-- **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
+### Competition Awards
+- **1st Award on Track 2** of SereTOD Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
 - **Honorable Mention**, The American Mathematical Contest in Modeling, 2021
 
 
