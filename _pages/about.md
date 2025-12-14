@@ -21,7 +21,7 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 - **Alignment for Large Language Models** — Improving Multi-diminutional alignment for LLMs
 
 
-My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.**
+My long-term goal is to develop **automated, scalable and safe ways that foster exceptional intelligence toward achieving AGI.**
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -56,7 +56,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
 
-- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**</span>  
+- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;">**ByteDance, Seed General Agent Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
 
 - <span style="font-size: 0.92em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
