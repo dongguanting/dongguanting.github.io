@@ -40,17 +40,17 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='education'></span>
 # 📖 Education
 
-- **2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**  
-  Gaoling School of Artificial Intelligence, Renmin University of China
+- <span style="font-size: 0.869em;">**2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**</span>  
+  <span style="font-size: 0.869em;">Gaoling School of Artificial Intelligence, Renmin University of China</span>
 
-- **2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**  
-  Beijing University of Posts and Telecommunications
+- <span style="font-size: 0.869em;">**2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**</span>  
+  <span style="font-size: 0.869em;">Beijing University of Posts and Telecommunications</span>
 
-- **2017.09 - 2021.06** | <img src="/images/bupt.webp" style="width: 1em;"> **B.Eng in Information and Communication Engineering**  
-  Beijing University of Posts and Telecommunications
+- <span style="font-size: 0.869em;">**2017.09 - 2021.06** | <img src="/images/bupt.webp" style="width: 1em;"> **B.Eng in Information and Communication Engineering**</span>  
+  <span style="font-size: 0.869em;">Beijing University of Posts and Telecommunications</span>
 
-- **2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**  
-  University of Oxford
+- <span style="font-size: 0.869em;">**2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**</span>  
+  <span style="font-size: 0.869em;">University of Oxford</span>
 
 
 <span class='anchor' id='experiences'></span>
