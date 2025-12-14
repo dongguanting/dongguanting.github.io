@@ -14,16 +14,14 @@ redirect_from:
 - Research interests: Agentic Reinforcement Learning, Deep Search & Research Agent, Alignment for Large Language Models
 
 # 🔥 News
-- *2024.10*: We introduce [AEPO](https://arxiv.org/pdf/2507.19849), which designed to balance entropy for multi-turn LLM-based agent training! AEPO is honored to be featured as [🤗 Hugging Face Daily Paper #2](https://huggingface.co/papers/2510.14545)！
-- *2024.07*: We introduce [ARPO](https://arxiv.org/pdf/2507.19849), a novel agentic RL algorithm tailored for training multi-turn LLM-based agents! ARPO is honored to be featured as [🤗 Hugging Face Daily Paper #1](https://huggingface.co/papers/2507.19849)！
-- *2025.09*: 🌐 WebThinker has been accepted by NeurIPS 2025!
-- *2025.08*: 🔍 Search-o1 has been accepted by EMNLP 2025 as Oral Presentation!
+- *2025.10*: We introduce [AEPO](https://arxiv.org/pdf/2507.19849), which designed to balance entropy for multi-turn LLM-based agent training! AEPO is honored to be featured as [🤗 Hugging Face Daily Paper #2](https://huggingface.co/papers/2510.14545)！
+- *2025.07*: We introduce [ARPO](https://arxiv.org/pdf/2507.19849), a novel agentic RL algorithm tailored for training multi-turn LLM-based agents! ARPO is honored to be featured as [🤗 Hugging Face Daily Paper #1](https://huggingface.co/papers/2507.19849)！
+- *2025.09*: 🌐 WebThinker has been accepted by NeurIPS 2025! A powerful open-sourced deep research agent! Feel free to check out our [Demo](https://foremost-beechnut-8ed.notion.site/WebThinker-Empowering-Large-Reasoning-Models-with-Deep-Research-Capability-d13158a27d924a4b9df7f9ab94066b64)!
+- *2025.08*: 🔍 Search-o1 has been accepted by EMNLP 2025 as Oral Presentation! It leverages agentic search mechanism to enhance o1-like large reasoning models!
 - *2025.05*: Four papers have been accepted by ACL 2025! Looking forward to seeing you in Vienna!
 - *2025.05*: We propose 🔧🌟Tool-Star, a LLM-brained multi-tool reasoner via reinforcement learning! Check out our project [here](https://github.com/dongguanting/Tool-Star)!
-- *2025.04*: We introduce 🌐 WebThinker, a powerful open-sourced deep research agent! Feel free to check out our [Demo](https://foremost-beechnut-8ed.notion.site/WebThinker-Empowering-Large-Reasoning-Models-with-Deep-Research-Capability-d13158a27d924a4b9df7f9ab94066b64)!
 - *2025.02*: Our modular toolkit ⚡FlashRAG currently supports a range of multimodal retrievers and generators, please check it out!
 - *2025.01*: [DPA-RAG](https://arxiv.org/pdf/2406.18676) has been accepted by WWW 2025, which is designed to align diverse preferences within RAG systems.
-- *2025.01*: We release 🔍 Search-o1, leveraging agentic search mechanism to enhance o1-like large reasoning models!
 - *2025.01*: Two papers have been accepted by ICLR 2025! [AUTOIF](https://arxiv.org/pdf/2406.13542) is the secret behind <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen's instruction-following alignment.
 - *2024.12*: Honored to be a contributor to the Qwen2.5 <img src="/images/qwen_logo.webp" style="width: 1em;" />, a series of LLMs designed to meet diverse needs!
 - *2024.12*: [FollowRAG](https://arxiv.org/abs/2410.09584) has been accepted by AAAI 2025, which is dedicated to developing a reliable instruction-following RAG system.
@@ -31,7 +29,6 @@ redirect_from:
 - *2024.09*: Two papers have been accepted by EMNLP 2024!
 - *2024.07*: We release our technical report of Qwen2 <img src="/images/qwen_logo.webp" style="width: 1em;" />. a large-scale language model developed by Alibaba Group.
 - *2024.05*: Four papers have been accepted by ACL 2024! Looking forward to seeing you in Bangkok!
-- *2024.02*: One paper have been accepted by NAACL 2024!
 
 # 📝 Publications
 \* for corresponding author, <sup>\#</sup> for equal contribution.
