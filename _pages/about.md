@@ -56,19 +56,19 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
 
-- **2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**  
+- <span style="font-size: 0.869em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span>  
   <span style="font-size: 0.869em;">- Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
 
-- **2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**  
+- <span style="font-size: 0.869em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span>  
   <span style="font-size: 0.869em;">- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
 
-- **2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**  
+- <span style="font-size: 0.869em;">**2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Alignment & Reasoning of Large Language Models  
   <span style="font-size: 0.869em;">- Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
 
-- **2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**  
+- <span style="font-size: 0.869em;">**2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation  
   <span style="font-size: 0.869em;">- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
@@ -135,7 +135,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
-# 📝 Selected Publications（**[→ Full Publications](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)**
+# 📝 Selected Publications（**[Full List](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)**
 ）
 
 - [**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**](https://arxiv.org/abs/2504.21776)\
