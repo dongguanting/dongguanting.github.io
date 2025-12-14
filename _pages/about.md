@@ -15,13 +15,13 @@ I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Int
 
 I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **40+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
 
-**My long-term goal is to develop automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.**
+### Research Interests：
+- **Agentic Reinforcement Learning** — Training general agents via Fundamental RL-based optimization
+- **Deep Search Agents** — Enhancing long-horizon reasoning with web-scale information Seeking
+- **Alignment for Large Language Models** — Improving Multi-diminutional alignment for LLMs
 
-### Research Interests
-- **Agentic Reinforcement Learning** — Training general agents through RL-based optimization
-- **Deep Search Agents** — Enhancing reasoning with web-scale information Seeking
-- **Alignment for Large Language Models** — Improving instruction-following and preference alignment
 
+My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.**
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -41,7 +41,7 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 # 📖 Education
 
 - **2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**  
-  Gaoling School of Artificial Intelligence, Renmin University of China
+  - Gaoling School of Artificial Intelligence, Renmin University of China
 
 - **2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**  
   Beijing University of Posts and Telecommunications
@@ -57,20 +57,20 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 # 💻 Research Experience
 
 - **2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**  
-  Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span>  
-  Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)
+  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span>  
+  - Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
 
 - **2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**  
-  Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span>  
-  Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)
+  <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span>  
+  - Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
 
 - **2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**  
-  Research Intern on Alignment & Reasoning of Large Language Models  
-  Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)
+  <span style="font-size: 0.869em;">- Research Intern on Alignment & Reasoning of Large Language Models  
+  - Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
 
 - **2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**  
-  Research Intern on Knowledge-Augmented Generation  
-  Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)
+  <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation  
+  - Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
 
 <span class='anchor' id='honors-awards'></span>
@@ -97,9 +97,9 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 # 🎤 Invited Talks
 
 - *2025.11*: **"Agentic Reinforcement Policy Optimization"**, MLNLP Community, [Slides](https://mp.weixin.qq.com/s/0nwK7_dodh5vUZSRKHt57Q)
-- *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Recording](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
+- *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
-- *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Article](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
+- *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
 
 
 <span class='anchor' id='publications'></span>
@@ -135,8 +135,8 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
-# 📝 Selected Publications 
-**[→ Full Publication List](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)**
+# 📝 Selected Publications（**[→ Full Publications](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)**
+）
 
 - [**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**](https://arxiv.org/abs/2504.21776)\
 <span style="font-size: 0.869em;"> Xiaoxi Li, Jiajie Jin, **Guanting Dong**, Hongjin Qian, Yongkang Wu, Ji-Rong Wen, Yutao Zhu, and Zhicheng Dou.</span>\
