@@ -41,7 +41,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 # 📖 Education
 
 - **2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**  
-  - Gaoling School of Artificial Intelligence, Renmin University of China
+  Gaoling School of Artificial Intelligence, Renmin University of China
 
 - **2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**  
   Beijing University of Posts and Telecommunications
@@ -58,19 +58,19 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 - **2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.3em;"> **ByteDance, Seed General Agent Team**  
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span>  
-  - Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
+  <span style="font-size: 0.869em;">- Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
 
 - **2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**  
   <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span>  
-  - Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
+  <span style="font-size: 0.869em;">- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
 
 - **2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**  
   <span style="font-size: 0.869em;">- Research Intern on Alignment & Reasoning of Large Language Models  
-  - Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
+  <span style="font-size: 0.869em;">- Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
 
 - **2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**  
   <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation  
-  - Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
+  <span style="font-size: 0.869em;">- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
 
 <span class='anchor' id='honors-awards'></span>
