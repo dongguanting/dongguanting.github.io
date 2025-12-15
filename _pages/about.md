@@ -73,19 +73,20 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 # 🏆 Honors & Awards
 
 ### Grants 
-- **National Natural Science Foundation of China**, Fundamental Research Project for PhD Students, 国家自然科学基金青年学生基础研究项目(博士生), 2026.01-2027.12
+- 2026: Young Talent Support Program for Doctoral Students, CAST | 中国科协青年人才托举工程博士生专项计划
+- 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC | 国家自然科学基金青年学生基础研究项目(博士生)
 
 ### Scholarships 
-- **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%), 2025
-- **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html), 2024
-- **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html), 2024
-- **National Scholarship for Master Students** (硕士生国家奖学金, Top 1%), [Link](https://mp.weixin.qq.com/s/FhWj5PFPdgBfzp2QI8F28Q), 2023
-- **Excellent First-class Scholarship** for Master Students, BUPT (Two times), 2021, 2022
+- 2025: **National Scholarship for Ph.D. Students** | 博士生国家奖学金 (Top 1%)
+- 2024: **Outstanding Graduates of Beijing** | 北京市优秀毕业生 (Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
+- 2024: **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html)
+- 2023: **National Scholarship for Master Students** | 硕士生国家奖学金 (Top 1%), [Link](https://mp.weixin.qq.com/s/FhWj5PFPdgBfzp2QI8F28Q)
+- 2021-2022: **Excellent First-class Scholarship** for Master Students, BUPT (Two times)
 
 ### Competitions
-- **2nd Award on Track 1** of LiveRAG Workshop Challenge, SIGIR 2025, [Link](https://liverag.tii.ae/)
-- **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
-- **Honorable Mention**, The American Mathematical Contest in Modeling, 2021
+- 2025: **2nd Award on Track 1** of LiveRAG Workshop Challenge, SIGIR 2025, [Link](https://liverag.tii.ae/)
+- 2022: **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
+- 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
 
 
 <span class='anchor' id='invited-talks'></span>
