@@ -74,7 +74,9 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 ### Grants 
 - 2026: Young Talent Support Program for Doctoral Students, CAST (**中国科协青年人才托举工程博士生专项计划**)
+- 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
 - 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (**国家自然科学基金青年学生基础研究项目-博士生**)
+
 
 ### Scholarships 
 - 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
