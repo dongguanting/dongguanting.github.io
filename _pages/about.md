@@ -187,8 +187,10 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 - <span style="font-size: 0.92em;">[**How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition**](https://arxiv.org/pdf/2310.05492.pdf)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Hongyi Yuan, Keming Lu, Chengpeng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, Jingren Zhou.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**ACL 2024 (CCF-A)**</span>\
+<span style="font-size: 0.87em; color: #c00000;"><strong>ACL 2024 (CCF-A)</strong> <a href="https://resources.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/">(Most Influential ACL Papers – Top 11/All)</a></span><br>
 <a href='https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=12013057803072540290&as_sdt=5'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AroLk4NBRz8UC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+
 
 - <span style="font-size: 0.92em;">[**MuggleMath: Assessing the Impact of Query and Response Augmentation on Math Reasoning**](https://arxiv.org/pdf/2310.05506.pdf)</span>\
 <span style="font-size: 0.869em;"> Chengpeng Li, Zheng Yuan, Hongyi Yuan, **Guanting Dong**, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou.</span>\
