@@ -143,7 +143,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 - <span style="font-size: 0.92em;">[**Search-o1: Agentic Search-Enhanced Large Reasoning Models**](https://arxiv.org/abs/2501.05366)</span>\
 <span style="font-size: 0.869em;"> Xiaoxi Li, **Guanting Dong**, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, and Zhicheng Dou.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**EMNLP 2025 (CCF-B)**</span>\
+<span style="font-size: 0.87em; color: purple;"> **EMNLP 2025 (CCF-B) (Oral) (<a href="https://www.paperdigest.org/2025/09/most-influential-arxiv-artificial-intelligence-papers-2025-09-version/" style="color: purple;">Most Influential arXiv AI Papers in 2025 -- Top 5/All</a>)**</span>\
 <a href="https://github.com/sunnynexus/Search-o1"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sunnynexus/Search-o1?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=283590861766656057'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AM05iB0D1s5AC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation**](https://arxiv.org/pdf/2412.14835)</span>\
