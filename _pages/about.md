@@ -157,7 +157,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 - <span style="font-size: 0.92em;">[**We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?**](https://arxiv.org/pdf/2407.01284)</span>\
 <span style="font-size: 0.869em;"> Runqi Qiao, Qiuna Tan, **Guanting Dong**<sup>\#</sup>, Minhui Wu, Chong Sun, Xiaoshuai Song, Zhuoma GongQue, Shanglin Lei, Zhe Wei, Miaoxuan Zhang, Runfeng Qiao, Yifan Zhang, Xiao Zong, Yida Xu, Muxi Diao, Zhimin Bao, Chen Li, Honggang Zhang.</span>\
-<span style="font-size: 0.87em; color: #c00000;"> **ACL 2025 (CCF-A)**</span>\
+<span style="font-size: 0.87em; color: purple;">**ACL 2025 (CCF-A) (<a href="https://www.paperdigest.org/2025/09/most-influential-acl-papers-2025-09-version/" style="color: purple;">Most Influential ACL 2025 Papers – Top 8/All</a>)** </span>\
 <a href="https://github.com/We-Math/We-Math"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/We-Math/We-Math?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=9870861752242716648&as_sdt=5'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3A4fKUyHm3Qg0C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation**](https://arxiv.org/pdf/2406.18676)</span>\
@@ -187,7 +187,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 - <span style="font-size: 0.92em;">[**How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition**](https://arxiv.org/pdf/2310.05492.pdf)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Hongyi Yuan, Keming Lu, Chengpeng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, Jingren Zhou.</span>\
-<span style="font-size: 0.87em; color: purple;">**ACL 2024 (CCF-A) (<a href="https://resources.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/" style="color: purple;">Most Influential ACL Papers – Top 11/All</a>)** </span>\
+<span style="font-size: 0.87em; color: purple;">**ACL 2024 (CCF-A) (<a href="https://resources.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/" style="color: purple;">Most Influential ACL 2024 Papers – Top 11/All</a>)** </span>\
 <a href='https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=12013057803072540290&as_sdt=5'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AroLk4NBRz8UC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
