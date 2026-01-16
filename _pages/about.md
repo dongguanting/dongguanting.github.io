@@ -81,7 +81,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 
 ### Scholarships 
-- 2025: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**)
+- 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**)
 - 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
 - 2024: **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
 - 2024: **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html)
