@@ -26,7 +26,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.12*: 🚀 Released [Seed1.8](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), Towards Generalized Real-World Agency! Honored to be a core contributor.
-
 - *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
 - *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) accepted by **NeurIPS 2025**! A powerful open-source deep research agent. Check out our [demo](https://github.com/RUC-NLPIR/WebThinker)!
 - *2025.08*: [ARPO](https://arxiv.org/pdf/2507.19849) featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)! An agentic RL algorithm for multi-turn LLM agents.
