@@ -1,0 +1,51 @@
+# 将 Google Scholar 引用数据推送到 google-scholar-stats 分支，网站上的 citation 徽章从该分支的 gs_data.json 读取
+name: Update Google Scholar stats
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 8 * * *'   # 每天 08:00 UTC
+  workflow_dispatch:       # 允许在 Actions 页手动运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Run Google Scholar crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          cd google_scholar_crawler && python main.py
+
+      - name: Push gs_data.json to google-scholar-stats branch
+        run: |
+          git fetch origin google-scholar-stats 2>/dev/null || true
+          if git show-ref --verify refs/remotes/origin/google-scholar-stats 2>/dev/null; then
+            git checkout google-scholar-stats
+            cp google_scholar_crawler/results/gs_data.json gs_data.json
+          else
+            git checkout --orphan google-scholar-stats
+            git rm -rf . 2>/dev/null || true
+            cp google_scholar_crawler/results/gs_data.json gs_data.json
+          fi
+          git add gs_data.json
+          if git diff --staged --quiet; then
+            echo "No change in gs_data.json, skip push"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update gs_data.json"
+          git push origin google-scholar-stats
