@@ -15,11 +15,14 @@ main:
   - title: "Honors & Awards"
     url: "/#honors-awards"
 
-  - title: "Publications"
+  - title: "Selected Publications"
     url: "/#publications"
 
   - title: "Selected Preprints"
     url: "/#selected-preprints"
+
+  - title: "Invited Talks"
+    url: "/#invited-talks"
 
   - title: "Academic Services"
     url: "/#academic-services"

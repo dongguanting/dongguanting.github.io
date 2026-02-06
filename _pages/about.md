@@ -90,7 +90,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='selected-preprints'></span>
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 
@@ -119,6 +119,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11602636321899326654'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AK3LRdlH-MEoC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Selected Publications（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 
 
