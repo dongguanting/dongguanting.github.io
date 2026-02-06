@@ -16,9 +16,9 @@ I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Int
 I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **40+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
 
 ### Research Interests：
-- **Agentic Reinforcement Learning** — Training general agents via Fundamental RL-based optimization
-- **Deep Search Agents** — Enhancing long-horizon reasoning with web-scale information Seeking
-- **Alignment for Large Language Models** — Improving Multi-diminutional alignment for LLMs
+- **Agentic Reinforcement Learning** — Training general agent intelligence via Fundamental RL-based optimization
+- **Deep Search & Research Agents** — Empowering long-horizon reasoning with web-scale information Seeking
+- **Alignment for Large Language Models** — Improving multi-dimensional alignment for LLMs
 
 My long-term goal is to develop **automated, scalable and safe ways that foster exceptional intelligence toward achieving AGI.**
 
