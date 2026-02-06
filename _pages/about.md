@@ -20,7 +20,6 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 - **Deep Search Agents** — Enhancing long-horizon reasoning with web-scale information Seeking
 - **Alignment for Large Language Models** — Improving Multi-diminutional alignment for LLMs
 
-
 My long-term goal is to develop **automated, scalable and safe ways that foster exceptional intelligence toward achieving AGI.**
 
 <span class='anchor' id='news'></span>
@@ -35,7 +34,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - *2025.02*: ⚡ [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) now supports multimodal retrievers and generators!
 - *2025.01*: [DPA-RAG](https://arxiv.org/pdf/2406.18676) accepted by **WWW 2025** — aligning diverse preferences in RAG systems.
 - *2025.01*: **Two papers** accepted by **ICLR 2025**! [AutoIF](https://arxiv.org/pdf/2406.13542) is the secret behind <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen's instruction-following alignment.
-
 
 <span class='anchor' id='education'></span>
 # 📖 Education
@@ -57,7 +55,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 # 💻 Research Experience
 
 - <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;">**ByteDance, Seed General Agent Team**</span>  
-  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentor: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN)</span>
+  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
 
 - <span style="font-size: 0.92em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span><br>- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
@@ -76,8 +74,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (**国家自然科学基金青年学生基础研究项目-博士生**)
 - 2026: Young Talent Support Program for Doctoral Students, CAST (**中国科协青年人才托举工程博士生专项计划**)
 - 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
-
-
 
 ### Scholarships 
 - 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**)
@@ -106,10 +102,8 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 
-
-
 - <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)</span> <img src="/images/bytedance.png" style="width: 1em;">\
-<span style="font-size: 0.869em;"> Bytedance Seed Team (core contributors including **Guanting Dong**).</span>
+<span style="font-size: 0.869em;"> Bytedance Seed Team (Core contributors including **Guanting Dong**).</span>
 
 - <span style="font-size: 0.92em;">[**Qwen2.5 Technical Report**](https://arxiv.org/pdf/2412.15115)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
 <span style="font-size: 0.869em;"> Qwen Team (129 authors including **Guanting Dong**).</span>\
@@ -128,7 +122,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
-
 - <span style="font-size: 0.92em;">[**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
@@ -139,9 +132,8 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 - <span style="font-size: 0.92em;">[**Agentic Reinforced Policy Optimization**](https://arxiv.org/pdf/2507.19849)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Hangyu Mao, Kai Ma, Licheng Bao, Yifei Chen, Zhongyuan Wang, Zhongxia Chen, Jiazhen Du, Huiyang Wang, Fuzheng Zhang, Guorui Zhou, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**ICLR 2026**</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ICLR 2026 (CCF-A)**</span>\
 <a href="https://github.com/dongguanting/ARPO"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/ARPO?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?cites=6207851523271813385'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AJQOojiI6XY0C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
 
 
 
