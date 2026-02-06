@@ -89,15 +89,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
 
 
-<span class='anchor' id='invited-talks'></span>
-# 🎤 Invited Talks
-
-- *2025.11*: **"Agentic Reinforcement Policy Optimization"**, MLNLP Community, [Slides](https://mp.weixin.qq.com/s/0nwK7_dodh5vUZSRKHt57Q)
-- *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
-- *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
-- *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
-
-
 <span class='anchor' id='publications'></span>
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
@@ -222,6 +213,16 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span style="font-size: 0.869em;"> **Guanting Dong**, Rumei Li, Sirui Wang, Yupeng Zhang, Yunsen Xian, Weiran Xu.</span>\
 <span style="font-size: 0.87em; color: #c00000;"> **CIKM 2023 (CCF-B)**</span>\
 <a href="https://github.com/dongguanting/SKP-for-KBQA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/SKP-for-KBQA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+
+<span class='anchor' id='invited-talks'></span>
+# 🎤 Invited Talks
+
+- *2025.11*: **"Agentic Reinforcement Policy Optimization"**, MLNLP Community, [Slides](https://mp.weixin.qq.com/s/0nwK7_dodh5vUZSRKHt57Q)
+- *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
+- *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
+- *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
+
 
 
 <span class='anchor' id='academic-services'></span>
