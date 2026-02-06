@@ -144,7 +144,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 
 - <span style="font-size: 0.92em;">[**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**](https://arxiv.org/abs/2504.21776)</span>\
-<span style="font-size: 0.869em;"> Xiaoxi Li, Jiajie Jin, **Guanting Dong**, Hongjin Qian, Yongkang Wu, Ji-Rong Wen, Yutao Zhu, and Zhicheng Dou.</span>\
+<span style="font-size: 0.869em;"> Xiaoxi Li, Jiajie Jin, **Guanting Dong**<sup>\#</sup>, Hongjin Qian, Yongkang Wu, Ji-Rong Wen, Yutao Zhu, and Zhicheng Dou.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**NeurIPS 2025 (CCF-A)**</span>\
 <a href="https://github.com/RUC-NLPIR/WebThinker"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2494358555732420670'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3Ap2g8aNsByqUC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
@@ -183,7 +183,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <a href="https://github.com/QwenLM/AutoIF"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/QwenLM/AutoIF?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16109051854272212147'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AdhFuZR0502QC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery**](https://arxiv.org/pdf/2406.08587)</span>\
-<span style="font-size: 0.869em;"> Xiaoshuai Song, Muxi Diao, **Guanting Dong**, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, Dayuan Fu, Huangxuan Wu, Bin Liang, Weihao Zeng, Yejie Wang, Zhuoma GongQue, Jianing Yu, Qiuna Tan, Weiran Xu.</span>\
+<span style="font-size: 0.869em;"> Xiaoshuai Song, Muxi Diao, **Guanting Dong**<sup>\*</sup>, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, Dayuan Fu, Huangxuan Wu, Bin Liang, Weihao Zeng, Yejie Wang, Zhuoma GongQue, Jianing Yu, Qiuna Tan, Weiran Xu.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**ICLR 2025 (CCF-A)**</span>\
 <a href="https://github.com/csbench/csbench"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/csbench/csbench?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
