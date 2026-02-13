@@ -94,7 +94,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 
-- <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)</span> <img src="/images/bytedance.png" style="width: 1em;">\
+- <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)</span> <img src="/images/bytedance.png" style="width: 2em; height: 2em;">\
 <span style="font-size: 0.869em;"> Bytedance Seed Team (Core contributors including **Guanting Dong**).</span>
 
 - <span style="font-size: 0.92em;">[**Qwen2.5 Technical Report**](https://arxiv.org/pdf/2412.15115)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
