@@ -24,6 +24,8 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+
+- *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the general MCP tool-use agent ability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
 - *2026.01*: 🎉 [ARPO](https://arxiv.org/pdf/2507.19849) and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **ICLR 2026** and **WWW 2026**!
 - *2025.12*: 🚀 Released [Seed1.8](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), Towards Generalized Real-World Agency! Honored to be a core contributor.
 - *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
@@ -93,6 +95,9 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='selected-preprints'></span>
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
+
+- <span style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.3em; height: 1.8em;">\
+<span style="font-size: 0.869em;"> Bytedance Seed Team (Core contributors including **Guanting Dong**).</span>
 
 - <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)</span> <img src="/images/bytedance.png" style="width: 4.3em; height: 1.8em;">\
 <span style="font-size: 0.869em;"> Bytedance Seed Team (Core contributors including **Guanting Dong**).</span>
