@@ -25,6 +25,8 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *2026.02*: 🚀 Released [OminiGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
+- *2026.02*: 🎉🎉🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
 - *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the general MCP tool-use agent ability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
 - *2026.01*: 🎉 [ARPO](https://arxiv.org/pdf/2507.19849) and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **ICLR 2026** and **WWW 2026**!
 - *2025.12*: 🚀 Released [Seed1.8](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), Towards Generalized Real-World Agency! Honored to be a core contributor.
