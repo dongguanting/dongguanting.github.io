@@ -29,7 +29,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - *2026.02*: 🎉🎉🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
 - *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the general MCP tool-use agent ability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
 - *2026.01*: 🎉 [ARPO](https://arxiv.org/pdf/2507.19849) and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **ICLR 2026** and **WWW 2026**!
-- *2025.12*: 🚀 Released [Seed1.8](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), Towards Generalized Real-World Agency! Honored to be a core contributor.
+- *2025.12*: 🚀 Released [Seed1.8](https://arxiv.org/pdf/2603.20633), Towards Generalized Real-World Agency! Honored to be a core contributor.
 - *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
 - *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) accepted by **NeurIPS 2025**! A powerful open-source deep research agent. Check out our [demo](https://github.com/RUC-NLPIR/WebThinker)!
 - *2025.08*: [ARPO](https://arxiv.org/pdf/2507.19849) featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)! An agentic RL algorithm for multi-turn LLM agents.
