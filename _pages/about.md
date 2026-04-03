@@ -121,14 +121,16 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
-- <span style="font-size: 0.92em;">[**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
-<span style="font-size: 0.869em;"> **Guanting Dong**, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
-<a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11602636321899326654'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AK3LRdlH-MEoC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
 
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 
+- <span style="font-size: 0.92em;">[**Tool-Star: Empowering Multi-Tool Collaborative Web Agent via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
+<span style="font-size: 0.869em;"> **Guanting Dong**, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**SIGIR 2026 (CCF-A)**</span>\
+<a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11602636321899326654'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AK3LRdlH-MEoC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**Agentic Reinforced Policy Optimization**](https://arxiv.org/pdf/2507.19849)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Hangyu Mao, Kai Ma, Licheng Bao, Yifei Chen, Zhongyuan Wang, Zhongxia Chen, Jiazhen Du, Huiyang Wang, Fuzheng Zhang, Guorui Zhou, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou.</span>\
