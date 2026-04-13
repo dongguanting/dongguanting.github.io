@@ -24,11 +24,10 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-
-- *2026.02*: 🚀 Released [OmniGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
+- *2026.03*: 🎉 [Tool-Star](https://arxiv.org/abs/2505.16410), [ARPO](https://arxiv.org/pdf/2507.19849), and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **SIGIR 2026**, **ICLR 2026**, and **WWW 2026**! Welcome to follow our Agent RL family.
 - *2026.02*: 🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
 - *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
-- *2026.01*: 🎉 [ARPO](https://arxiv.org/pdf/2507.19849) and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **ICLR 2026** and **WWW 2026**!
+- *2026.02*: 🚀 Released [OmniGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
 - *2025.12*: 🚀 Released [Seed1.8](https://arxiv.org/abs/2603.20633), towards generalized real-world agency! Honored to be a core contributor.
 - *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
 - *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) accepted by **NeurIPS 2025**! A powerful open-source deep research agent. Check out our [demo](https://github.com/RUC-NLPIR/WebThinker)!
