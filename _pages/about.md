@@ -113,6 +113,10 @@ _Recent representative preprints and technical reports._
 <span style="font-size: 0.869em;"> Qwen Team (64 authors including **Guanting Dong**).</span>\
 <a href="https://github.com/QwenLM/Qwen2"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/QwenLM/Qwen2?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6672924329882884012'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3ANMxIlDl6LWMC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
+- <span style="font-size: 0.92em;">[**OmniGAIA: Towards Native Omni-Modal AI Agents**](https://arxiv.org/pdf/2602.22897)</span>\
+<span style="font-size: 0.869em;"> Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Shijian Wang, **Guanting Dong**, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou.</span>\
+<a href="https://github.com/RUC-NLPIR/OmniGAIA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/OmniGAIA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5691345202928394346'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3A4hFrxpcac9AC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
 - <span style="font-size: 0.92em;">[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://arxiv.org/pdf/2308.01825.pdf)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
 <span style="font-size: 0.869em;"> Zheng Yuan, Hongyi Yuan, Chengpeng Li, **Guanting Dong**, Chuanqi Tan, Chang Zhou.</span>\
 <a href="https://github.com/OFA-Sys/gsm8k-ScRel"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OFA-Sys/gsm8k-ScRel?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498281829120693895'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AhkOj_22Ku90C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
@@ -125,22 +129,53 @@ _Recent representative preprints and technical reports._
 # 📝 Selected Publications（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 _Selected peer-reviewed publications._
 
+
+
+
+- <span style="font-size: 0.92em;">[**ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration**](https://arxiv.org/pdf/2601.06860)</span>\
+<span style="font-size: 0.869em;"> Yifei Chen, **Guanting Dong**, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ACL 2026 (CCF-A)**</span>\
+<a href="https://github.com/RUC-NLPIR/ET-Agent"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/ET-Agent?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+- <span style="font-size: 0.92em;">[**ToolScope: An Agentic Framework for Vision-Guided and Long-Horizon Tool Use**](https://arxiv.org/abs/2510.27363)</span>\
+<span style="font-size: 0.869em;"> Mengjie Deng, **Guanting Dong**, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ACL 2026 Findings**</span>\
+<a href="https://github.com/dengmengjie/ToolScope"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dengmengjie/ToolScope?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+- <span style="font-size: 0.92em;">[**EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis**](https://arxiv.org/abs/2601.05808)</span>\
+<span style="font-size: 0.869em;"> Xiaoshuai Song, Haofei Chang, **Guanting Dong**, Yutao Zhu, Zhicheng Dou, Ji-Rong Wen.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ACL 2026 Findings**</span>\
+<a href="https://github.com/RUC-NLPIR/EnvScaler"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/EnvScaler?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8103497619759791618'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3A5qfkUJPXOUwC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
 - <span style="font-size: 0.92em;">[**Tool-Star: Empowering Multi-Tool Collaborative Web Agent via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**SIGIR 2026 (CCF-A)**</span>\
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11602636321899326654'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AK3LRdlH-MEoC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+- <span style="font-size: 0.92em;">[**SmartSearch: Process Reward-Guided Query Refinement for Search Agents**](https://arxiv.org/abs/2601.04888)</span>\
+<span style="font-size: 0.869em;"> Tongyu Wen, **Guanting Dong**, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**SIGIR 2026 (CCF-A)**</span>\
+<a href="https://github.com/RUC-NLPIR/SmartSearch"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/SmartSearch?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2066619988650581091'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AhCrLmN-GePgC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**Agentic Reinforced Policy Optimization**](https://arxiv.org/pdf/2507.19849)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Hangyu Mao, Kai Ma, Licheng Bao, Yifei Chen, Zhongyuan Wang, Zhongxia Chen, Jiazhen Du, Huiyang Wang, Fuzheng Zhang, Guorui Zhou, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**ICLR 2026 (CCF-A)**</span>\
 <a href="https://github.com/dongguanting/ARPO"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/ARPO?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?cites=6207851523271813385'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AJQOojiI6XY0C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
-
+- <span style="font-size: 0.92em;">[**Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning**](https://arxiv.org/abs/2509.23285)</span>\
+<span style="font-size: 0.869em;"> Yifei Chen, **Guanting Dong**, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ICLR 2026 (CCF-A)**</span>\
+<a href="https://github.com/RUC-NLPIR/Tool-Light"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/Tool-Light?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17471733589608068504'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AVaXvl8Fpj5cC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**Agentic Entropy-Balanced Policy Optimization**](https://arxiv.org/abs/2510.14545)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Licheng Bao, Zhongyuan Wang, Kangzhi Zhao, Xiaoxi Li, Jiajie Jin, Jinghan Yang, Hangyu Mao, Fuzheng Zhang, Kun Gai, Guorui Zhou, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**WWW 2026 (CCF-A)**</span>\
+<span style="font-size: 0.87em; color: #c00000;">**WWW 2026 (CCF-A) (Oral)**</span>\
 <a href="https://github.com/dongguanting/ARPO"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/ARPO?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+- <span style="font-size: 0.92em;">[**DeepAgent: A General Reasoning Agent with Scalable Toolsets**](https://arxiv.org/abs/2510.21618)</span>\
+<span style="font-size: 0.869em;"> Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, **Guanting Dong**, Jiajie Jin, Yinuo Wang, Hao Wang, Yutao Zhu, Ji-Rong Wen, Yuan Lu, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**WWW 2026 (CCF-A) (Oral)**</span>\
+<a href="https://github.com/RUC-NLPIR/DeepAgent"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/DeepAgent?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9556768123113297964'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3Ai2xiXl-TujoC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
 - <span style="font-size: 0.92em;">[**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**](https://arxiv.org/abs/2504.21776)</span>\
@@ -206,7 +241,7 @@ _Selected peer-reviewed publications._
 
 - <span style="font-size: 0.92em;">[**ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models**](https://arxiv.org/pdf/2310.08975)</span>\
 <span style="font-size: 0.869em;"> Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, **Guanting Dong**, Meina Song, Wei Lin.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**ACL 2024 Findings (CCF-A)**</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ACL 2024 Findings**</span>\
 <a href="https://github.com/LHRLAB/ChatKBQA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LHRLAB/ChatKBQA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.de/scholar?oi=bibs&hl=en&cites=15220711135897191201&as_sdt=5'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3A5nxA0vEk-isC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span style="font-size: 0.92em;">[**DolphCoder: Echo-Locating Code Large Language Models with Diverse and Multi-Objective Instruction Tuning**](https://arxiv.org/pdf/2402.09136.pdf)</span>\
