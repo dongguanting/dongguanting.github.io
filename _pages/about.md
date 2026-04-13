@@ -16,20 +16,20 @@ I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Int
 I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **40+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
 
 ### Research Interests：
-- **Agentic Reinforcement Learning** — Training general agent intelligence via Fundamental RL-based optimization
-- **Deep Search & Research Agents** — Empowering long-horizon reasoning with web-scale information Seeking
-- **Alignment for Large Language Models** — Improving multi-dimensional alignment for LLMs
+- **General Agent Training** — Training long-horizon agents with scalable real-world interaction capabilities
+- **Agent Harness Engineering** — Building stronger scaffolds to fully unlock frontier agent capabilities of foundation models
+- **Agentic Reinforcement Learning** — Training general agent intelligence via fundamental RL-based optimization
 
-My long-term goal is to develop **automated, scalable and safe ways that foster exceptional intelligence toward achieving AGI.**
+My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.** I am also a firm believer in [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2026.02*: 🚀 Released [OminiGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
-- *2026.02*: 🎉🎉🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
-- *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the general MCP tool-use agent ability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
+- *2026.02*: 🚀 Released [OmniGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
+- *2026.02*: 🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
+- *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
 - *2026.01*: 🎉 [ARPO](https://arxiv.org/pdf/2507.19849) and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **ICLR 2026** and **WWW 2026**!
-- *2025.12*: 🚀 Released [Seed1.8](https://arxiv.org/pdf/2603.20633), Towards Generalized Real-World Agency! Honored to be a core contributor.
+- *2025.12*: 🚀 Released [Seed1.8](https://arxiv.org/abs/2603.20633), towards generalized real-world agency! Honored to be a core contributor.
 - *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
 - *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) accepted by **NeurIPS 2025**! A powerful open-source deep research agent. Check out our [demo](https://github.com/RUC-NLPIR/WebThinker)!
 - *2025.08*: [ARPO](https://arxiv.org/pdf/2507.19849) featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)! An agentic RL algorithm for multi-turn LLM agents.
@@ -59,7 +59,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
 
-- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;">**ByteDance, Seed General Agent Team**</span>  
+- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span>
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
 
 - <span style="font-size: 0.92em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
@@ -97,12 +97,13 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='selected-preprints'></span>
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
+_Recent representative preprints and technical reports._
 
 - <span style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
-<span style="font-size: 0.869em;"> Bytedance Seed Team (Core contributors including **Guanting Dong**).</span>
+<span style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>
 
-- <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
-<span style="font-size: 0.869em;"> Bytedance Seed Team (Core contributors including **Guanting Dong**).</span>
+- <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://arxiv.org/abs/2603.20633)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
+<span style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>
 
 - <span style="font-size: 0.92em;">[**Qwen2.5 Technical Report**](https://arxiv.org/pdf/2412.15115)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
 <span style="font-size: 0.869em;"> Qwen Team (129 authors including **Guanting Dong**).</span>\
@@ -120,12 +121,9 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span style="font-size: 0.869em;"> Shanglin Lei, **Guanting Dong**<sup>*</sup>, Xiaoping Wang, Keheng Wang, Sirui Wang.</span>\
 <a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
-
-
-
-
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
+_Selected peer-reviewed publications._
 
 - <span style="font-size: 0.92em;">[**Tool-Star: Empowering Multi-Tool Collaborative Web Agent via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
 <span style="font-size: 0.869em;"> **Guanting Dong**, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
@@ -233,8 +231,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
 - *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
-
-
 
 <span class='anchor' id='academic-services'></span>
 # 🔍 Academic Services
