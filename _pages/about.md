@@ -59,7 +59,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
 
-- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span>
+- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
 
 - <span style="font-size: 0.92em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
@@ -76,12 +76,12 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 # 🏆 Honors & Awards
 
 ### Grants 
-- 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (**国家自然科学基金青年学生基础研究项目-博士生**)
+- 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (<span style="color: #c00000;">**国家自然科学基金青年学生基础研究项目-博士生**</span>)
 - 2026: Young Talent Support Program for Doctoral Students, CAST (**中国科协青年人才托举工程博士生专项计划**)
 - 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
 
 ### Scholarships 
-- 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**)
+- 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (<span style="color: #c00000;">**首届腾讯青云奖学金, 全国15人**</span>)
 - 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
 - 2024: **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
 - 2024: **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html)
