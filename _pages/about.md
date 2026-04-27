@@ -24,6 +24,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.04*: 🚀 Released [**Agent-World**](https://dongguanting.github.io/), scaling real-world environment synthesis for evolving general agent intelligence! Check out our [demo](https://dongguanting.github.io/)!
 - *2026.03*: 🎉 [Tool-Star](https://arxiv.org/abs/2505.16410), [ARPO](https://arxiv.org/pdf/2507.19849), and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **SIGIR 2026**, **ICLR 2026**, and **WWW 2026**! Welcome to follow our Agent RL family.
 - *2026.02*: 🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
 - *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
@@ -97,6 +98,9 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 # 📝 Selected Preprints
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 _Recent representative preprints and technical reports._
+
+- <span style="font-size: 0.92em;">[**Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence**](https://dongguanting.github.io/)</span>\
+<span style="font-size: 0.869em;"> **Guanting Dong**, Junting Lu, Junjie Huang, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou.</span>
 
 - <span style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>
