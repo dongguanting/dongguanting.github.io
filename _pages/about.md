@@ -22,9 +22,10 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 
 My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.** I am also a firm believer in [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
+
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.04*: 🚀 Released [**Agent-World**](https://dongguanting.github.io/), scaling real-world environment synthesis for evolving general agent intelligence! Check out our [demo](https://dongguanting.github.io/)!
+- *2026.04*: 🚀 Released [**Agent-World**](https://arxiv.org/pdf/2604.18292), scaling real-world environment synthesis for evolving general agent intelligence! Check out our [demo](https://agent-tars-world.github.io/-/)!
 - *2026.03*: 🎉 [Tool-Star](https://arxiv.org/abs/2505.16410), [ARPO](https://arxiv.org/pdf/2507.19849), and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **SIGIR 2026**, **ICLR 2026**, and **WWW 2026**! Welcome to follow our Agent RL family.
 - *2026.02*: 🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
 - *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
