@@ -22,6 +22,7 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 
 My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.** I am also a firm believer in [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.04*: 🚀 Released [**Agent-World**](https://arxiv.org/pdf/2604.18292), scaling real-world environment synthesis for evolving general agent intelligence! Check out our [demo](https://agent-tars-world.github.io/-/)!
