@@ -22,8 +22,6 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 
 My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.** I am also a firm believer in [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
-<span style="color: #c00000;">【Seeking 2027 Agent Research Intern roles at leading global AI labs (e.g. OpenAI, Anthropic, Meta, xAI, NVIDIA). Open to Singapore】</span>
-
 
 <span class='anchor' id='news'></span>
 # 🔥 News
