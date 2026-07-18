@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
 
-I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **40+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
+I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **50+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
 
 ### Research Interests：
 - **General Agent Training** — Training long-horizon agents with scalable real-world interaction capabilities
@@ -25,26 +25,26 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-<div class="news-scroll" style="max-height: 240px; overflow-y: auto; border: 1px solid #e8e8e8; border-radius: 8px; padding: 0.5rem 0.9rem; background: #fafafa;">
-<ul style="margin: 0; padding-left: 1.1em; list-style: disc;">
-<li style="margin: 0.35em 0;"><em>2026.07</em>: Released <a href="https://openreview.net/pdf?id=HyhfhlbWGh"><b>Towards Long-Horizon Agents: A Survey</b></a> (<a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub</a>)</li>
-<li style="margin: 0.35em 0;"><em>2026.06</em>: Released <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf"><b>Seed2.1 Model Card</b></a> (<a href="https://seed.bytedance.com/en/seed2_1">Homepage</a>)</li>
-<li style="margin: 0.35em 0;"><em>2026.06</em>: Selected as <a href="https://hub.baai.ac.cn/view/55541"><b>青源InnoVibe 2026——最受瞩目学术新星</b></a></li>
-<li style="margin: 0.35em 0;"><em>2026.06</em>: Received <a href="https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw"><b>“瓴航”院长奖学金</b></a></li>
-<li style="margin: 0.35em 0;"><em>2026.04</em>: Released <a href="https://arxiv.org/pdf/2604.18292"><b>Agent-World</b></a> (<a href="https://agent-tars-world.github.io/-/">Demo</a>)</li>
-<li style="margin: 0.35em 0;"><em>2026.03</em>: <a href="https://arxiv.org/abs/2505.16410">Tool-Star</a>, <a href="https://arxiv.org/pdf/2507.19849">ARPO</a>, <a href="https://arxiv.org/abs/2510.14545">AEPO</a> accepted at <b>SIGIR / ICLR / WWW 2026</b></li>
-<li style="margin: 0.35em 0;"><em>2026.02</em>: Received <a href="https://join.qq.com/scholarship.html"><b>Tencent Project Up Scholarship</b></a> (首届腾讯青云奖学金, 全国15人)</li>
-<li style="margin: 0.35em 0;"><em>2026.02</em>: Released <a href="https://arxiv.org/abs/2607.00248"><b>Seed2.0</b></a> (core contributor on MCP tool-use agent)</li>
-<li style="margin: 0.35em 0;"><em>2026.02</em>: Released <a href="https://arxiv.org/pdf/2602.22897"><b>OmniGAIA</b></a></li>
-<li style="margin: 0.35em 0;"><em>2025.12</em>: Released <a href="https://arxiv.org/abs/2603.20633"><b>Seed1.8</b></a> (core contributor)</li>
-<li style="margin: 0.35em 0;"><em>2025.10</em>: <a href="https://arxiv.org/abs/2510.14545">AEPO</a> featured as <a href="https://huggingface.co/papers/2510.14545">HF Daily Paper #2</a></li>
-<li style="margin: 0.35em 0;"><em>2025.09</em>: <a href="https://arxiv.org/abs/2504.21776">WebThinker</a> accepted by <b>NeurIPS 2025</b></li>
-<li style="margin: 0.35em 0;"><em>2025.08</em>: <a href="https://arxiv.org/pdf/2507.19849">ARPO</a> featured as <a href="https://huggingface.co/papers/2507.19849">HF Weekly Paper #1</a></li>
-<li style="margin: 0.35em 0;"><em>2025.08</em>: <a href="https://arxiv.org/abs/2501.05366">Search-o1</a> accepted by <b>EMNLP 2025 (Oral)</b></li>
-<li style="margin: 0.35em 0;"><em>2025.05</em>: Four papers accepted by <b>ACL 2025</b>; released <a href="https://arxiv.org/abs/2505.16410">Tool-Star</a></li>
-<li style="margin: 0.35em 0;"><em>2025.02</em>: <a href="https://github.com/RUC-NLPIR/FlashRAG">FlashRAG</a> supports multimodal retrievers and generators</li>
-<li style="margin: 0.35em 0;"><em>2025.01</em>: <a href="https://arxiv.org/pdf/2406.18676">DPA-RAG</a> → <b>WWW 2025</b>; two papers → <b>ICLR 2025</b></li>
-</ul>
+<div class="news-scroll" style="max-height: 260px; overflow-y: auto; padding-right: 0.5rem; border: 1px solid #e8e8e8; border-radius: 8px; padding: 0.65rem 0.85rem; background: #fafafa;">
+- *2026.07*: 📚 Released [**Towards Long-Horizon Agents: A Survey**](https://openreview.net/pdf?id=HyhfhlbWGh)! Check out our curated reading list on [GitHub](https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents).
+- *2026.06*: 🚀 Released [**Seed2.1 Model Card**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf) — a next-generation agent for real-world productivity! Honored to be a core contributor. ([Homepage](https://seed.bytedance.com/en/seed2_1))
+- *2026.06*: 🏆 Selected as **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** at BAAI Conference 2026!
+- *2026.06*: 🎉 Honored to receive the **[“瓴航”院长奖学金](https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw)**!
+- *2026.04*: 🚀 Released [**Agent-World**](https://arxiv.org/pdf/2604.18292), scaling real-world environment synthesis for evolving general agent intelligence! Check out our [demo](https://agent-tars-world.github.io/-/)!
+- *2026.03*: 🎉 [Tool-Star](https://arxiv.org/abs/2505.16410), [ARPO](https://arxiv.org/pdf/2507.19849), and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **SIGIR 2026**, **ICLR 2026**, and **WWW 2026**! Welcome to follow our Agent RL family.
+- *2026.02*: 🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
+- *2026.02*: 🚀 We released [Seed2.0](https://arxiv.org/abs/2607.00248). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
+- *2026.02*: 🚀 Released [OmniGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
+- *2025.12*: 🚀 Released [Seed1.8](https://arxiv.org/abs/2603.20633), towards generalized real-world agency! Honored to be a core contributor.
+- *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
+- *2025.09*: 🌐 [WebThinker](https://arxiv.org/abs/2504.21776) accepted by **NeurIPS 2025**! A powerful open-source deep research agent. Check out our [demo](https://github.com/RUC-NLPIR/WebThinker)!
+- *2025.08*: [ARPO](https://arxiv.org/pdf/2507.19849) featured as [🤗 HF Weekly Paper #1](https://huggingface.co/papers/2507.19849)! An agentic RL algorithm for multi-turn LLM agents.
+- *2025.08*: 🔍 [Search-o1](https://arxiv.org/abs/2501.05366) accepted by **EMNLP 2025** as **Oral Presentation**!
+- *2025.05*: **Four papers** accepted by **ACL 2025**!
+- *2025.05*: Released [Tool-Star](https://arxiv.org/abs/2505.16410), an LLM-brained multi-tool reasoner via RL! Check out our [project](https://github.com/dongguanting/Tool-Star).
+- *2025.02*: ⚡ [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) now supports multimodal retrievers and generators!
+- *2025.01*: [DPA-RAG](https://arxiv.org/pdf/2406.18676) accepted by **WWW 2025** — aligning diverse preferences in RAG systems.
+- *2025.01*: **Two papers** accepted by **ICLR 2025**! [AutoIF](https://arxiv.org/pdf/2406.13542) is the secret behind <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen's instruction-following alignment.
 </div>
 
 <span class='anchor' id='education'></span>
@@ -274,8 +274,8 @@ _Selected peer-reviewed publications._
 - 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
 
 ### Scholarships 
-- 2026: **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** (BAAI Conference 2026), [回顾](https://hub.baai.ac.cn/view/55718)
-- 2026: **[“瓴航”院长奖学金](https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw)** (高瓴人工智能学院)
+- 2026: **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** (BAAI Conference 2026)
+- 2026: **[“瓴航”院长奖学金](https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw)**
 - 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (<span style="color: #c00000;">**首届腾讯青云奖学金, 全国15人**</span>)
 - 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
 - 2024: **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
@@ -295,7 +295,7 @@ _Selected peer-reviewed publications._
 - *2026.06*: **"探索通用智能体训练的可行路径"**, 青稞 Talk 129, [Link](https://qingkeai.online/archives/ARPO-AEPO-Agent-World) / [Bilibili](https://www.bilibili.com/video/BV1bFEg6ZEry/) / [YouTube](https://youtu.be/iZ_8VXeXURY)
 - *2026.06*: **《迈向通用智能体训练》**, BAAI Conference 2026, [Link](https://hub.baai.ac.cn/view/55718)
 - *2026.05*: **"Agent-World，让智能体与环境协同进化"**, 中国AI智能体大会, [Link](https://mp.weixin.qq.com/s/uW9lSzyV84eCL_L-5ny5Nw)
-- *2026.05*: **"Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence"**, NICE Talk NO.175, [Link](https://luma.com/a8fnx243)
+- *2026.05*: **"Agent-World，让智能体与环境协同进化"**, NICE Talk NO.175, [Link](https://luma.com/a8fnx243)
 - *2025.11*: **"Agentic Reinforcement Policy Optimization"**, MLNLP Community, [Slides](https://mp.weixin.qq.com/s/0nwK7_dodh5vUZSRKHt57Q)
 - *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
