@@ -12,14 +12,17 @@ main:
   - title: "Experiences"
     url: "/#experiences"
 
-  - title: "Honors & Awards"
-    url: "/#honors-awards"
+  - title: "Selected Preprints"
+    url: "/#selected-preprints"
+
+  - title: "Tech Report"
+    url: "/#tech-report"
 
   - title: "Selected Publications"
     url: "/#publications"
 
-  - title: "Selected Preprints"
-    url: "/#selected-preprints"
+  - title: "Honors & Awards"
+    url: "/#honors-awards"
 
   - title: "Invited Talks"
     url: "/#invited-talks"

@@ -25,10 +25,14 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+<div class="news-scroll" style="max-height: 260px; overflow-y: auto; padding-right: 0.5rem; border: 1px solid #e8e8e8; border-radius: 8px; padding: 0.65rem 0.85rem; background: linear-gradient(180deg, #fafafa 0%, #fff 40%);">
+- *2026.07*: 📚 Released [**Towards Long-Horizon Agents: A Survey**](https://openreview.net/pdf?id=HyhfhlbWGh)! Check out our curated reading list on [GitHub](https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents).
+- *2026.06*: 🚀 Released [**Seed2.1 Model Card**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf) — a next-generation agent for real-world productivity! Honored to be a core contributor. ([Homepage](https://seed.bytedance.com/en/seed2_1))
+- *2026.06*: 🏆 Selected as **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** at BAAI Conference 2026!
 - *2026.04*: 🚀 Released [**Agent-World**](https://arxiv.org/pdf/2604.18292), scaling real-world environment synthesis for evolving general agent intelligence! Check out our [demo](https://agent-tars-world.github.io/-/)!
 - *2026.03*: 🎉 [Tool-Star](https://arxiv.org/abs/2505.16410), [ARPO](https://arxiv.org/pdf/2507.19849), and [AEPO](https://arxiv.org/abs/2510.14545) accepted at **SIGIR 2026**, **ICLR 2026**, and **WWW 2026**! Welcome to follow our Agent RL family.
 - *2026.02*: 🎉 Honored to receive the 2026 **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (**首届腾讯青云奖学金, 全国15人**). Thanks to my teachers and co-authors for their support!
-- *2026.02*: 🚀 We released [Seed2.0](https://seed.bytedance.com/en/seed2). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
+- *2026.02*: 🚀 We released [Seed2.0](https://arxiv.org/abs/2607.00248). As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).
 - *2026.02*: 🚀 Released [OmniGAIA](https://arxiv.org/pdf/2602.22897), building native omni-modal AI agents!
 - *2025.12*: 🚀 Released [Seed1.8](https://arxiv.org/abs/2603.20633), towards generalized real-world agency! Honored to be a core contributor.
 - *2025.10*: [AEPO](https://arxiv.org/abs/2510.14545) featured as [🤗 HF Daily Paper #2](https://huggingface.co/papers/2510.14545)! Our work on entropy-balanced policy optimization for multi-turn LLM agents.
@@ -40,6 +44,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 - *2025.02*: ⚡ [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) now supports multimodal retrievers and generators!
 - *2025.01*: [DPA-RAG](https://arxiv.org/pdf/2406.18676) accepted by **WWW 2025** — aligning diverse preferences in RAG systems.
 - *2025.01*: **Two papers** accepted by **ICLR 2025**! [AutoIF](https://arxiv.org/pdf/2406.13542) is the secret behind <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen's instruction-following alignment.
+</div>
 
 <span class='anchor' id='education'></span>
 # 📖 Education
@@ -73,37 +78,36 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
   <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation<br>- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
 
-<span class='anchor' id='honors-awards'></span>
-# 🏆 Honors & Awards
-
-### Grants 
-- 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (<span style="color: #c00000;">**国家自然科学基金青年学生基础研究项目-博士生**</span>)
-- 2026: Young Talent Support Program for Doctoral Students, CAST (**中国科协青年人才托举工程博士生专项计划**)
-- 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
-
-### Scholarships 
-- 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (<span style="color: #c00000;">**首届腾讯青云奖学金, 全国15人**</span>)
-- 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
-- 2024: **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
-- 2024: **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html)
-- 2023: **National Scholarship for Master Students** (硕士生国家奖学金, Top 1%), [Link](https://mp.weixin.qq.com/s/FhWj5PFPdgBfzp2QI8F28Q)
-- 2021-2022: **Excellent First-class Scholarship** for Master Students, BUPT
-
-### Competitions
-- 2025: **2nd Award on Track 1** of LiveRAG Workshop Challenge, SIGIR 2025, [Link](https://liverag.tii.ae/)
-- 2022: **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
-- 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
-
-
 <span class='anchor' id='selected-preprints'></span>
-# 📝 Selected Preprints
+# 📝 Selected Preprints（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 \* for corresponding author, <sup>\#</sup> for equal contribution.
-_Recent representative preprints and technical reports._
+_Recent representative preprints._
 
-- <span style="font-size: 0.92em;">[**Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence**](https://dongguanting.github.io/)</span>\
-<span style="font-size: 0.869em;"> **Guanting Dong**, Junting Lu, Junjie Huang, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou.</span>
+- <span style="font-size: 0.92em;">[**Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence**](https://arxiv.org/pdf/2604.18292)</span>\
+<span style="font-size: 0.869em;"> **Guanting Dong**, Junting Lu, Junjie Huang, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou.</span>\
+<a href="https://agent-tars-world.github.io/-/"><img alt="Demo" src="https://img.shields.io/badge/Demo-Agent--World-white?style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
-- <span style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
+- <span style="font-size: 0.92em;">[**Towards Long-Horizon Agents: A Survey**](https://openreview.net/pdf?id=HyhfhlbWGh)</span>\
+<span style="font-size: 0.869em;"> **Guanting Dong**, Xiaoshuai Song, Yuyang Hu, Jiajie Jin, Chenghao Zhang, Yifei Chen, Xiaoxi Li, Huaying Yuan, Xinyu Yang, Tongyu Wen, Jiejun Tan, Hongjin Qian, Shijue Huang, Junting Lu, Zhenyu Li, Wanjun Zhong, Yutao Zhu, Tat-Seng Chua, Zhicheng Dou, Ji-Rong Wen.</span>\
+<a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/Awesome-Long-Horizon-Agents?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+- <span style="font-size: 0.92em;">[**Seed2.1 Model Card: A Next-Generation Agent for Real-World Productivity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
+<span style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**). ([Homepage](https://seed.bytedance.com/en/seed2_1))</span>
+
+- <span style="font-size: 0.92em;">[**OmniGAIA: Towards Native Omni-Modal AI Agents**](https://arxiv.org/pdf/2602.22897)</span>\
+<span style="font-size: 0.869em;"> Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Shijian Wang, **Guanting Dong**, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**IEEE TPAMI (under review)**</span>\
+<a href="https://github.com/RUC-NLPIR/OmniGAIA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/OmniGAIA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5691345202928394346'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3A4hFrxpcac9AC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+- <span style="font-size: 0.92em;">[**InstructERC: Reforming Emotion Recognition in Conversation with a Retrieval Multi-task LLMs Framework**](https://arxiv.org/pdf/2309.11911.pdf)</span>\
+<span style="font-size: 0.869em;"> Shanglin Lei, **Guanting Dong**<sup>*</sup>, Xiaoping Wang, Keheng Wang, Sirui Wang.</span>\
+<a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+
+
+<span class='anchor' id='tech-report'></span>
+# 📄 Tech Report
+
+- <span style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://arxiv.org/abs/2607.00248)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>
 
 - <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://arxiv.org/abs/2603.20633)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
@@ -117,17 +121,9 @@ _Recent representative preprints and technical reports._
 <span style="font-size: 0.869em;"> Qwen Team (64 authors including **Guanting Dong**).</span>\
 <a href="https://github.com/QwenLM/Qwen2"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/QwenLM/Qwen2?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6672924329882884012'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3ANMxIlDl6LWMC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
-- <span style="font-size: 0.92em;">[**OmniGAIA: Towards Native Omni-Modal AI Agents**](https://arxiv.org/pdf/2602.22897)</span>\
-<span style="font-size: 0.869em;"> Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Shijian Wang, **Guanting Dong**, Jiajie Jin, Hao Wang, Yinuo Wang, Ji-Rong Wen, Yuan Lu, Zhicheng Dou.</span>\
-<a href="https://github.com/RUC-NLPIR/OmniGAIA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/OmniGAIA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5691345202928394346'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3A4hFrxpcac9AC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
 - <span style="font-size: 0.92em;">[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://arxiv.org/pdf/2308.01825.pdf)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
 <span style="font-size: 0.869em;"> Zheng Yuan, Hongyi Yuan, Chengpeng Li, **Guanting Dong**, Chuanqi Tan, Chang Zhou.</span>\
 <a href="https://github.com/OFA-Sys/gsm8k-ScRel"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OFA-Sys/gsm8k-ScRel?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498281829120693895'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AhkOj_22Ku90C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
-- <span style="font-size: 0.92em;">[**InstructERC: Reforming Emotion Recognition in Conversation with a Retrieval Multi-task LLMs Framework**](https://arxiv.org/pdf/2309.11911.pdf)</span>\
-<span style="font-size: 0.869em;"> Shanglin Lei, **Guanting Dong**<sup>*</sup>, Xiaoping Wang, Keheng Wang, Sirui Wang.</span>\
-<a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
@@ -269,9 +265,37 @@ _Selected peer-reviewed publications._
 <a href="https://github.com/dongguanting/SKP-for-KBQA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/SKP-for-KBQA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 
+<span class='anchor' id='honors-awards'></span>
+# 🏆 Honors & Awards
+
+### Awards
+- 2026: **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** (BAAI Conference 2026), [回顾](https://hub.baai.ac.cn/view/55718)
+
+### Grants 
+- 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (<span style="color: #c00000;">**国家自然科学基金青年学生基础研究项目-博士生**</span>)
+- 2026: Young Talent Support Program for Doctoral Students, CAST (**中国科协青年人才托举工程博士生专项计划**)
+- 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
+
+### Scholarships 
+- 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (<span style="color: #c00000;">**首届腾讯青云奖学金, 全国15人**</span>)
+- 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
+- 2024: **Outstanding Graduates of Beijing** (北京市优秀毕业生, Top 1%), [Link](https://jw.beijing.gov.cn/tzgg/202410/t20241010_3916096.html)
+- 2024: **1st Place in PhD Entrance Exam** (Preliminary), GSAI, Renmin University of China, [Link](http://ai.ruc.edu.cn/newslist/notice/20240301100.html)
+- 2023: **National Scholarship for Master Students** (硕士生国家奖学金, Top 1%), [Link](https://mp.weixin.qq.com/s/FhWj5PFPdgBfzp2QI8F28Q)
+- 2021-2022: **Excellent First-class Scholarship** for Master Students, BUPT
+
+### Competitions
+- 2025: **2nd Award on Track 1** of LiveRAG Workshop Challenge, SIGIR 2025, [Link](https://liverag.tii.ae/)
+- 2022: **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
+- 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
+
+
 <span class='anchor' id='invited-talks'></span>
 # 🎤 Invited Talks
 
+- *2026.06*: **"从 ARPO，到 AEPO，再到 Agent-World：探索通用智能体训练的可行路径"**, 青稞 Talk 129, [Link](https://qingkeai.online/archives/ARPO-AEPO-Agent-World) / [Bilibili](https://www.bilibili.com/video/BV1bFEg6ZEry/) / [YouTube](https://youtu.be/iZ_8VXeXURY)
+- *2026.06*: **"青源InnoVibe 闪电演讲"**, BAAI Conference 2026 (青源InnoVibe 2026共创场), [Link](https://hub.baai.ac.cn/view/55718)
+- *2026.05*: **"Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence"**, NICE Talk NO.175, [Link](https://luma.com/a8fnx243)
 - *2025.11*: **"Agentic Reinforcement Policy Optimization"**, MLNLP Community, [Slides](https://mp.weixin.qq.com/s/0nwK7_dodh5vUZSRKHt57Q)
 - *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
