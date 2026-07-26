@@ -3,11 +3,33 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+body_class: homepage
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<section class="home-hero" aria-labelledby="home-hero-title">
+  <p class="home-kicker">Ph.D. Student · General Agent Research</p>
+  <h1 id="home-hero-title">Building capable, scalable, and safe general agents.</h1>
+  <p class="home-lead">I study how foundation-model agents learn, reason, use tools, and improve through interaction with complex real-world environments.</p>
+  <div class="research-tags" aria-label="Research interests">
+    <span>General Agent Training</span>
+    <span>Agent Harness Engineering</span>
+    <span>Agentic Reinforcement Learning</span>
+  </div>
+</section>
+
+<nav class="section-nav" aria-label="Page sections">
+  <a href="#news">News</a>
+  <a href="#experiences">Experience</a>
+  <a href="#selected-preprints">Preprints</a>
+  <a href="#publications">Publications</a>
+  <a href="#honors-awards">Honors</a>
+  <a href="#invited-talks">Talks</a>
+</nav>
+
+<section class="home-section home-about" markdown="1">
 <span class='anchor' id='about-me'></span>
 # About Me
 
@@ -22,7 +44,9 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 
 My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.** I am also a firm believer in [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
+</section>
 
+<section class="home-section" markdown="1">
 <span class='anchor' id='news'></span>
 # 🔥 News
 <style>
@@ -56,6 +80,9 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 </ul>
 </div>
 
+</section>
+
+<section class="home-section" markdown="1">
 <span class='anchor' id='education'></span>
 # 📖 Education
 
@@ -71,7 +98,9 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 - <span style="font-size: 0.92em;">**2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**</span>  
   University of Oxford
 
+</section>
 
+<section class="home-section" markdown="1">
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
 
@@ -87,7 +116,9 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 - <span style="font-size: 0.92em;">**2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation<br>- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
+</section>
 
+<section class="home-section publication-section" markdown="1">
 <span class='anchor' id='selected-preprints'></span>
 # 📝 Selected Preprints（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 \* for corresponding author, <sup>\#</sup> for equal contribution.
@@ -109,7 +140,9 @@ _Recent representative preprints._
 <span style="font-size: 0.869em;"> Shanglin Lei, **Guanting Dong**<sup>*</sup>, Xiaoping Wang, Keheng Wang, Sirui Wang.</span>\
 <a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
+</section>
 
+<section class="home-section publication-section" markdown="1">
 <span class='anchor' id='tech-report'></span>
 # 📄 Technical Reports
 
@@ -134,6 +167,9 @@ _Recent representative preprints._
 <span style="font-size: 0.869em;"> Zheng Yuan, Hongyi Yuan, Chengpeng Li, **Guanting Dong**, Chuanqi Tan, Chang Zhou.</span>\
 <a href="https://github.com/OFA-Sys/gsm8k-ScRel"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OFA-Sys/gsm8k-ScRel?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498281829120693895'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AhkOj_22Ku90C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
+</section>
+
+<section class="home-section publication-section" markdown="1">
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
 _Selected peer-reviewed publications._
@@ -273,7 +309,9 @@ _Selected peer-reviewed publications._
 <span style="font-size: 0.87em; color: #c00000;"> **CIKM 2023 (CCF-B)**</span>\
 <a href="https://github.com/dongguanting/SKP-for-KBQA"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/SKP-for-KBQA?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
+</section>
 
+<section class="home-section" markdown="1">
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 
@@ -297,7 +335,9 @@ _Selected peer-reviewed publications._
 - 2022: **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
 - 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
 
+</section>
 
+<section class="home-section" markdown="1">
 <span class='anchor' id='invited-talks'></span>
 # 🎤 Invited Talks
 
@@ -310,6 +350,9 @@ _Selected peer-reviewed publications._
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
 - *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
 
+</section>
+
+<section class="home-section" markdown="1">
 <span class='anchor' id='academic-services'></span>
 # 🔍 Academic Services
 
@@ -324,13 +367,14 @@ _Selected peer-reviewed publications._
 - <span style="font-size: 0.869em;">**Top-tier AI/DM Conferences**: KDD (2025), SIGIR (2025), WWW (2025–2026), CIKM (2024–2025), AAAI (2026)</span>
 - <span style="font-size: 0.869em;">**Top-tier NLP Conferences**: ACL ARR (2024–2026)</span>
 
+</section>
 
 <hr style="margin-top: 3em;">
 
 <div id="footer" style="text-align: center; font-size: 0.9em; color: #666;">
   <div id="footer-text"></div>
 
-  &copy; 2025 Guanting Dong<br><br>
+  &copy; {{ site.time | date: "%Y" }} Guanting Dong<br><br>
 
   <span style="color: #888;">
     Total Views: <span id="busuanzi_value_site_pv"></span> | 
