@@ -76,6 +76,7 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .author__avatar {
@@ -147,12 +148,14 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: block;
+  flex: 0 0 100%;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
-  margin-left: auto;
+  margin-top: 0.75em;
+  margin-left: 0;
   cursor: pointer;
 
   li:last-child {
@@ -176,17 +179,16 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: block;
+  position: relative;
+  right: auto;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  background: transparent;
+  z-index: 1;
+  box-shadow: none;
   cursor: default;
 
   @include breakpoint($large) {
@@ -200,7 +202,7 @@
   }
 
   &:before {
-    display: block;
+    display: none;
     content: "";
     position: absolute;
     top: -11px;
@@ -217,7 +219,7 @@
   }
 
   &:after {
-    display: block;
+    display: none;
     content: "";
     position: absolute;
     top: -10px;
@@ -275,7 +277,7 @@
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
-  display: block;
+  display: none;
   a {
     color: inherit;
     text-decoration: none;
