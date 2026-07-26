@@ -137,6 +137,40 @@ h1:before, .anchor:before {
     }
 }
 
+.page__content a.paper-link-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    min-height: 20px;
+    padding: 0 7px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background: #fff;
+    font-size: 11px;
+    line-height: 18px;
+    text-decoration: none;
+    vertical-align: middle;
+
+    i {
+        font-size: 12px;
+    }
+
+    &.homepage-badge i {
+        color: #2563eb;
+    }
+
+    &.blog-badge i {
+        color: #07c160;
+    }
+
+    &:hover {
+        color: #111;
+        background: #f7f7f7;
+        text-decoration: none;
+    }
+}
+
 .page__content {
     .paper-title {
         font-size: 1.02rem !important;
@@ -165,12 +199,15 @@ h1:before, .anchor:before {
         vertical-align: middle;
     }
 
-    li:has(> .paper-title) > .hf-paper-badge {
+    li:has(> .paper-title) > .hf-paper-badge,
+    li:has(> .paper-title) > .paper-link-badge {
         min-height: 1.45rem;
         padding: 0 7px;
         font-size: 0.78rem;
         line-height: 1.35rem;
+    }
 
+    li:has(> .paper-title) > .hf-paper-badge {
         img {
             width: 15px;
             height: 15px;
