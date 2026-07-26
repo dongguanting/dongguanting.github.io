@@ -2,3 +2,36 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+  window.copyAuthorContact = function (button) {
+    var text = button.getAttribute("data-copy-text");
+    var showCopied = function () {
+      var label = button.querySelector("span:not(.screen-reader-text)");
+      if (label) {
+        var original = label.textContent;
+        label.textContent = "Copied!";
+        window.setTimeout(function () {
+          label.textContent = original;
+        }, 1800);
+      }
+      button.setAttribute("title", "Copied: " + text);
+    };
+
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(text).then(showCopied);
+      return;
+    }
+
+    var input = document.createElement("textarea");
+    input.value = text;
+    input.setAttribute("readonly", "");
+    input.style.position = "fixed";
+    input.style.opacity = "0";
+    document.body.appendChild(input);
+    input.select();
+    document.execCommand("copy");
+    document.body.removeChild(input);
+    showCopied();
+  };
+</script>
