@@ -150,7 +150,30 @@ h1:before, .anchor:before {
 
     .paper-authors {
         color: #555;
-        font-size: 0.79rem !important;
+        font-size: 0.84rem !important;
         line-height: 1.55;
+    }
+
+    .paper-venue {
+        font-size: 0.84rem !important;
+        line-height: 1.55;
+    }
+
+    li:has(> .paper-title) > a > img {
+        width: auto;
+        height: 1.45rem;
+        vertical-align: middle;
+    }
+
+    li:has(> .paper-title) > .hf-paper-badge {
+        min-height: 1.45rem;
+        padding: 0 7px;
+        font-size: 0.78rem;
+        line-height: 1.35rem;
+
+        img {
+            width: 15px;
+            height: 15px;
+        }
     }
 }

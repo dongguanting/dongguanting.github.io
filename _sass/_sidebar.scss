@@ -300,3 +300,42 @@
     display: none;
   }
 }
+
+.author__contact-list {
+  flex: 0 0 100%;
+  width: 100%;
+  margin: 0.75em 0 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  a,
+  .author-contact-copy {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0.25em 0;
+    border: 0;
+    color: inherit;
+    background: transparent;
+    font-family: $sans-serif;
+    font-size: $type-size-5;
+    line-height: 1.4;
+    text-align: left;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* The compact theme dropdown is replaced by the always-visible contact list. */
+.author__urls-wrapper {
+  display: none !important;
+}

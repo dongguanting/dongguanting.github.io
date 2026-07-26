@@ -13,6 +13,33 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  <ul class="author__contact-list social-icons" aria-label="Contact and academic profiles">
+    {% if author.email %}
+      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+    {% endif %}
+    {% if author.twitter %}
+      <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> X</a></li>
+    {% endif %}
+    {% if author.github %}
+      <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if author.googlescholar %}
+      <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
+    {% endif %}
+    {% if author.dblp %}
+      <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a></li>
+    {% endif %}
+    {% if author.orcid %}
+      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> ORCID</a></li>
+    {% endif %}
+    {% if author.xiaohongshu %}
+      <li><a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Xiaohongshu</a></li>
+    {% endif %}
+    {% if author.wechat %}
+      <li><button type="button" class="author-contact-copy" data-copy-text="{{ author.wechat }}" onclick="copyAuthorContact(this)"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> <span>WeChat</span></button></li>
+    {% endif %}
+  </ul>
+
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
