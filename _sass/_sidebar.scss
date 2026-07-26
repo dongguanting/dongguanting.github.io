@@ -251,6 +251,25 @@
       text-decoration: underline;
     }
   }
+
+  .author-contact-copy {
+    display: block;
+    width: 100%;
+    margin: 0 0 5px;
+    padding: 2px 5px 2px 0;
+    border: 0;
+    color: inherit;
+    background: transparent;
+    font-family: inherit;
+    font-size: $type-size-5;
+    line-height: inherit;
+    text-align: left;
+    cursor: pointer;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .author__urls_sm{
@@ -263,6 +282,17 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+  .author-contact-copy--icon {
+    display: inline;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: inherit;
+    background: transparent;
+    font-size: inherit;
+    cursor: pointer;
   }
   @include breakpoint($large) {
     display: none;

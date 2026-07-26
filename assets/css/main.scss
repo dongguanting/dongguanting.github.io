@@ -107,3 +107,32 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.page__content a.hf-paper-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    min-height: 20px;
+    padding: 0 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background: #fff7d6;
+    font-size: 11px;
+    line-height: 18px;
+    text-decoration: none;
+    vertical-align: middle;
+
+    img {
+        width: 14px;
+        height: 14px;
+        border: 0;
+        box-shadow: none;
+    }
+
+    &:hover {
+        color: #111;
+        background: #ffefad;
+        text-decoration: none;
+    }
+}

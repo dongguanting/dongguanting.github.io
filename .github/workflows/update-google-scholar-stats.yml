@@ -1,0 +1,59 @@
+name: Update Google Scholar stats
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install crawler dependencies
+        run: pip install -r google_scholar_crawler/requirements.txt
+
+      - name: Fetch Google Scholar data
+        env:
+          GOOGLE_SCHOLAR_ID: amozZDkAAAAJ
+        run: |
+          cd google_scholar_crawler
+          python main.py
+          cp results/gs_data.json /tmp/gs_data.json
+          cp results/gs_data_shieldsio.json /tmp/gs_data_shieldsio.json
+
+      - name: Publish citation data
+        run: |
+          git fetch origin google-scholar-stats || true
+          if git show-ref --verify --quiet refs/remotes/origin/google-scholar-stats; then
+            git switch --force-create google-scholar-stats origin/google-scholar-stats
+          else
+            git switch --orphan google-scholar-stats
+            git rm -rf .
+          fi
+
+          cp /tmp/gs_data.json gs_data.json
+          cp /tmp/gs_data_shieldsio.json gs_data_shieldsio.json
+          git add gs_data.json gs_data_shieldsio.json
+
+          if git diff --staged --quiet; then
+            echo "Citation data is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update Google Scholar stats"
+          git push origin google-scholar-stats

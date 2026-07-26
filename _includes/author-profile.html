@@ -94,6 +94,12 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Xiaohongshu</a></li>
+      {% endif %}
+      {% if author.wechat %}
+        <li><button type="button" class="author-contact-copy" data-copy-text="{{ author.wechat }}" onclick="copyAuthorContact(this)"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> <span>WeChat</span></button></li>
+      {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
@@ -189,6 +195,12 @@
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer" title="Xiaohongshu"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.wechat %}
+        <button type="button" class="author-contact-copy author-contact-copy--icon" data-copy-text="{{ author.wechat }}" onclick="copyAuthorContact(this)" title="Copy WeChat ID"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i><span class="screen-reader-text">Copy WeChat ID</span></button>
+      {% endif %}
       {% if author.flickr %}
         <a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>
       {% endif %}
@@ -216,3 +228,34 @@
     </div>
   </div>
 </div>
+
+<script>
+  function copyAuthorContact(button) {
+    var text = button.getAttribute('data-copy-text');
+    var showCopied = function () {
+      var label = button.querySelector('span:not(.screen-reader-text)');
+      if (label) {
+        var original = label.textContent;
+        label.textContent = 'WeChat copied!';
+        window.setTimeout(function () { label.textContent = original; }, 1800);
+      }
+      button.setAttribute('title', 'Copied: ' + text);
+    };
+
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(text).then(showCopied);
+      return;
+    }
+
+    var input = document.createElement('textarea');
+    input.value = text;
+    input.setAttribute('readonly', '');
+    input.style.position = 'fixed';
+    input.style.opacity = '0';
+    document.body.appendChild(input);
+    input.select();
+    document.execCommand('copy');
+    document.body.removeChild(input);
+    showCopied();
+  }
+</script>
