@@ -59,17 +59,36 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='education'></span>
 # 📖 Education
 
-- <span style="font-size: 0.92em;">**2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**</span>  
-  Gaoling School of Artificial Intelligence, Renmin University of China
-
-- <span style="font-size: 0.92em;">**2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**</span>  
-  Beijing University of Posts and Telecommunications
-
-- <span style="font-size: 0.92em;">**2017.09 - 2021.06** | <img src="/images/bupt.webp" style="width: 1em;"> **B.Eng in Information and Communication Engineering**</span>  
-  Beijing University of Posts and Telecommunications
-
-- <span style="font-size: 0.92em;">**2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**</span>  
-  University of Oxford
+<div class="education-cards">
+  <div class="education-card">
+    <div class="education-date">2024.09 – Present</div>
+    <div class="education-details">
+      <div class="education-degree"><img src="/images/ruc.webp" alt=""> <strong>Ph.D. in Artificial Intelligence</strong></div>
+      <div class="education-school">Gaoling School of Artificial Intelligence, Renmin University of China</div>
+    </div>
+  </div>
+  <div class="education-card">
+    <div class="education-date">2021.09 – 2024.06</div>
+    <div class="education-details">
+      <div class="education-degree"><img src="/images/bupt.webp" alt=""> <strong>M.Eng in Artificial Intelligence</strong></div>
+      <div class="education-school">Beijing University of Posts and Telecommunications</div>
+    </div>
+  </div>
+  <div class="education-card">
+    <div class="education-date">2017.09 – 2021.06</div>
+    <div class="education-details">
+      <div class="education-degree"><img src="/images/bupt.webp" alt=""> <strong>B.Eng in Information and Communication Engineering</strong></div>
+      <div class="education-school">Beijing University of Posts and Telecommunications</div>
+    </div>
+  </div>
+  <div class="education-card">
+    <div class="education-date">2018.07 – 2018.08</div>
+    <div class="education-details">
+      <div class="education-degree"><img src="/images/oxford.webp" alt=""> <strong>Summer Exchange Program</strong></div>
+      <div class="education-school">University of Oxford</div>
+    </div>
+  </div>
+</div>
 
 
 <span class='anchor' id='experiences'></span>
