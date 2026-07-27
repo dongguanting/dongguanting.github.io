@@ -11,6 +11,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
+<div class="compact-section" markdown="1">
+
 I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
 
 I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **50+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
@@ -22,6 +24,7 @@ I'm currently a Top Seed research intern focusing on general agent research at [
 
 My long-term goal is to develop **automated, scalable, and safe approaches that foster exceptional intelligence toward achieving AGI.** I am also a firm believer in [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
+</div>
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -32,7 +35,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 .news-scroll li:first-child { margin-top: 0.25em; }
 .news-scroll li:last-child { margin-bottom: 0.25em; }
 </style>
-<div class="news-scroll">
+<div class="news-scroll compact-section">
 <ul>
 <li><em>2026.07</em>: 📚 Released <a href="https://openreview.net/pdf?id=HyhfhlbWGh"><strong>Towards Long-Horizon Agents: A Survey</strong></a>! Check out our curated reading list on <a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub</a>.</li>
 <li><em>2026.06</em>: 🚀 Released <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf"><strong>Seed2.1 Model Card</strong></a> — a next-generation agent for real-world productivity! Honored to be a core contributor. (<a href="https://seed.bytedance.com/en/seed2_1">Homepage</a>)</li>
@@ -59,6 +62,8 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <span class='anchor' id='education'></span>
 # 📖 Education
 
+<div class="compact-section" markdown="1">
+
 - <span style="font-size: 0.92em;">**2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**</span>  
   Gaoling School of Artificial Intelligence, Renmin University of China
 
@@ -71,9 +76,12 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 - <span style="font-size: 0.92em;">**2018.07 - 2018.08** | <img src="/images/oxford.webp" style="width: 1em;"> **Summer Exchange Program**</span>  
   University of Oxford
 
+</div>
 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experience
+
+<div class="compact-section" markdown="1">
 
 - <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
@@ -87,6 +95,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 - <span style="font-size: 0.92em;">**2022.09 - 2023.05** | <img src="/images/meituan.png" style="width: 2.4em;"> **Meituan, NLP Center**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Knowledge-Augmented Generation<br>- Mentor: [Rumei Li](https://scholar.google.com/citations?user=zlWAv4gAAAAJ&hl=zh-CN&oi=ao)</span>
 
+</div>
 
 <span class='anchor' id='selected-preprints'></span>
 # 📝 Selected Preprints（[**Full List**](https://scholar.google.com/citations?user=amozZDkAAAAJ&hl=zh-CN)）
@@ -285,6 +294,8 @@ _Selected peer-reviewed publications._
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 
+<div class="compact-section" markdown="1">
+
 ### Grants 
 - 2026.01-2027.12: Fundamental Research Project for PhD Students, NSFC (<span style="color: #c00000;">**国家自然科学基金青年学生基础研究项目-博士生**</span>)
 - 2026: Young Talent Support Program for Doctoral Students, CAST (**中国科协青年人才托举工程博士生专项计划**)
@@ -305,9 +316,12 @@ _Selected peer-reviewed publications._
 - 2022: **1st Award on Track 2** of SereTOD Workshop Challenge, EMNLP 2022, [Link](http://seretod.org/Challenge.html)
 - 2021: **Honorable Mention**, The American Mathematical Contest in Modeling
 
+</div>
 
 <span class='anchor' id='invited-talks'></span>
 # 🎤 Invited Talks
+
+<div class="compact-section" markdown="1">
 
 - *2026.06*: **"探索通用智能体训练的可行路径"**, 青稞 Talk 129, [Link](https://qingkeai.online/archives/ARPO-AEPO-Agent-World) / [Bilibili](https://www.bilibili.com/video/BV1bFEg6ZEry/) / [YouTube](https://youtu.be/iZ_8VXeXURY)
 - *2026.06*: **《迈向通用智能体训练》**, BAAI Conference 2026, [Link](https://hub.baai.ac.cn/view/55718)
@@ -317,6 +331,8 @@ _Selected peer-reviewed publications._
 - *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
 - *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
+
+</div>
 
 <span class='anchor' id='academic-services'></span>
 # 🔍 Academic Services
