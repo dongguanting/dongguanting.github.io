@@ -109,7 +109,14 @@ h1:before, .anchor:before {
 }
 
 .compact-section {
-    font-size: 0.92em;
+    font-size: 1.02rem;
+
+    p,
+    li,
+    dl,
+    span[style*="font-size"] {
+        font-size: inherit !important;
+    }
 }
 
 .page__content a.hf-paper-badge {
@@ -176,6 +183,10 @@ h1:before, .anchor:before {
 }
 
 .page__content {
+    h1 {
+        font-size: 1.2em;
+    }
+
     .paper-title {
         font-size: 1.02rem !important;
         line-height: 1.45;
