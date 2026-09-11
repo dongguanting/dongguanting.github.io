@@ -15,7 +15,7 @@ redirect_from:
 
 I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
 
-I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **50+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
+I am currently a research intern and tech lead for MCP tool use, productivity, and harness engineering in the Foundation LLM Team at [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, I held research intern positions at [ByteDance Seed](https://seed.bytedance.com/zh/) (Top Seed Program), the [Alibaba Qwen Team](https://github.com/QwenLM), the [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **50+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
 
 ### Research Interests：
 - **General Agent Training** — Training long-horizon agents with scalable real-world interaction capabilities
@@ -37,6 +37,8 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 </style>
 <div class="news-scroll compact-section">
 <ul>
+<li><em>2026.09</em>: 🚀 Joined the Foundation LLM Team at <a href="https://www.shlab.org.cn/"><strong>Shanghai AI Laboratory</strong></a> as a Research Intern and tech lead for MCP Tool Use, Productivity, and Harness Engineering.</li>
+<li><em>2026.09</em>: 🎉 Honored to receive the 2026 <a href="https://mp.weixin.qq.com/s/-IREGc4AndOf5hjP98wPOQ"><strong>Ant InTech Scholarship</strong></a> (<span style="color: #c00000;"><strong>2026 蚂蚁InTech奖学金, 全球华人10人</strong></span>)!</li>
 <li><em>2026.07</em>: 📚 Released <a href="https://openreview.net/pdf?id=HyhfhlbWGh"><strong>Towards Long-Horizon Agents: A Survey</strong></a>! Check out our curated reading list on <a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub</a>.</li>
 <li><em>2026.06</em>: 🚀 Released <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf"><strong>Seed2.1 Model Card</strong></a> — a next-generation agent for real-world productivity! Honored to be a core contributor. (<a href="https://seed.bytedance.com/en/seed2_1">Homepage</a>)</li>
 <li><em>2026.06</em>: 🏆 Selected as <a href="https://hub.baai.ac.cn/view/55541"><strong>青源InnoVibe 2026——最受瞩目学术新星</strong></a> at BAAI Conference 2026!</li>
@@ -83,7 +85,10 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 <div class="compact-section" markdown="1">
 
-- <span style="font-size: 0.92em;">**2025.11 - Present** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span>  
+- <span style="font-size: 0.92em;">**2026.09 - Present** | <img src="/images/shanghai_ai_lab.png" style="width: 4.2em;"> **Shanghai AI Laboratory, Foundation LLM Team**</span><br>
+  <span style="font-size: 0.869em;">- Research Intern and tech lead for MCP Tool Use, Productivity, and Harness Engineering<br>- Mentor: [Tao Gui](https://scholar.google.com/citations?user=BrOLQdwAAAAJ&hl=en)</span>
+
+- <span style="font-size: 0.92em;">**2025.11 - 2026.09** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span><br>
   <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
 
 - <span style="font-size: 0.92em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
@@ -124,7 +129,7 @@ _Recent representative preprints._
 
 - <span class="paper-title" style="font-size: 0.92em;">[**Seed2.1 Model Card: A Next-Generation Agent for Real-World Productivity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span class="paper-authors" style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>\
-<a href="https://seed.bytedance.com/en/seed2_1" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://scholar.google.com/scholar?q=Seed2.1+Model+Card+A+Next-Generation+Agent+for+Real-World+Productivity"><img alt="Google Scholar citations" src="https://img.shields.io/badge/Citations-0-white?style=flat-square&logo=Google%20Scholar&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+<a href="https://seed.bytedance.com/en/seed2_1" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://scholar.google.com/scholar?q=Seed2.1+officially+released+Advancing+AI+productivity"><img alt="Google Scholar citations" src="https://img.shields.io/badge/Citations-4-white?style=flat-square&logo=Google%20Scholar&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span class="paper-title" style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://arxiv.org/abs/2607.00248)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span class="paper-authors" style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>\
@@ -302,6 +307,7 @@ _Selected peer-reviewed publications._
 - 2026: Top-Tier Innovative Talent Cultivation Support Program of RUC (**中国人民大学拔尖创新人才培育资助计划**)
 
 ### Scholarships 
+- 2026: **[Ant InTech Scholarship](https://mp.weixin.qq.com/s/-IREGc4AndOf5hjP98wPOQ)** (<span style="color: #c00000;">**2026 蚂蚁InTech奖学金, 全球华人10人**</span>)
 - 2026: **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** (BAAI Conference 2026)
 - 2026: **[“瓴航”院长奖学金](https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw)**
 - 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (<span style="color: #c00000;">**首届腾讯青云奖学金, 全国15人**</span>)

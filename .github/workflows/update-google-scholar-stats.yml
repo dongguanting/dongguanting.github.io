@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: master
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -36,14 +37,6 @@ jobs:
 
       - name: Publish citation data
         run: |
-          git fetch origin google-scholar-stats || true
-          if git show-ref --verify --quiet refs/remotes/origin/google-scholar-stats; then
-            git switch --force-create google-scholar-stats origin/google-scholar-stats
-          else
-            git switch --orphan google-scholar-stats
-            git rm -rf .
-          fi
-
           cp /tmp/gs_data.json gs_data.json
           cp /tmp/gs_data_shieldsio.json gs_data_shieldsio.json
           git add gs_data.json gs_data_shieldsio.json
@@ -56,4 +49,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: update Google Scholar stats"
-          git push origin google-scholar-stats
+          git push origin HEAD:master
