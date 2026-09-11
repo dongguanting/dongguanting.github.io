@@ -85,7 +85,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 <div class="compact-section" markdown="1">
 
-- <span style="font-size: 0.92em;">**2026.09 - Present** | <img src="/images/shanghai_ai_lab.png" style="width: 4.2em;"> **Shanghai AI Laboratory, Foundation LLM Team**</span><br>
+- <span style="font-size: 0.92em;">**2026.09 - Present** | <img src="/images/shanghai_ai_lab.png" style="width: 2.5em;"> **Shanghai AI Laboratory, Foundation LLM Team**</span><br>
   <span style="font-size: 0.869em;">- Research Intern and tech lead for MCP Tool Use, Productivity, and Harness Engineering<br>- Mentor: [Tao Gui](https://scholar.google.com/citations?user=BrOLQdwAAAAJ&hl=en)</span>
 
 - <span style="font-size: 0.92em;">**2025.11 - 2026.09** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span><br>
