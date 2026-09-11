@@ -38,7 +38,7 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <div class="news-scroll compact-section">
 <ul>
 <li><em>2026.09</em>: 🚀 Joined the Foundation LLM Team at <a href="https://www.shlab.org.cn/"><strong>Shanghai AI Laboratory</strong></a> as a Research Intern and tech lead for MCP Tool Use, Productivity, and Harness Engineering.</li>
-<li><em>2026.09</em>: 🎉 Honored to receive the 2026 <a href="https://mp.weixin.qq.com/s/-IREGc4AndOf5hjP98wPOQ"><strong>Ant InTech Scholarship</strong></a> (<span style="color: #c00000;"><strong>2026 蚂蚁InTech奖学金, 全球华人10人</strong></span>)!</li>
+<li><em>2026.09</em>: 🎉 Honored to receive the 2026 <a href="https://mp.weixin.qq.com/s/-IREGc4AndOf5hjP98wPOQ"><strong>Ant InTech Scholarship</strong></a>!</li>
 <li><em>2026.07</em>: 📚 Released <a href="https://openreview.net/pdf?id=HyhfhlbWGh"><strong>Towards Long-Horizon Agents: A Survey</strong></a>! Check out our curated reading list on <a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub</a>.</li>
 <li><em>2026.06</em>: 🚀 Released <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf"><strong>Seed2.1 Model Card</strong></a> — a next-generation agent for real-world productivity! Honored to be a core contributor. (<a href="https://seed.bytedance.com/en/seed2_1">Homepage</a>)</li>
 <li><em>2026.06</em>: 🏆 Selected as <a href="https://hub.baai.ac.cn/view/55541"><strong>青源InnoVibe 2026——最受瞩目学术新星</strong></a> at BAAI Conference 2026!</li>
