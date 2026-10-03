@@ -27,8 +27,11 @@ jobs:
         run: pip install -r google_scholar_crawler/requirements.txt
 
       - name: Fetch Google Scholar data
+        id: fetch
         env:
           GOOGLE_SCHOLAR_ID: amozZDkAAAAJ
+          USE_FREE_PROXIES: "1"
+          MAX_RETRIES: "8"
         run: |
           cd google_scholar_crawler
           python main.py
@@ -36,6 +39,7 @@ jobs:
           cp results/gs_data_shieldsio.json /tmp/gs_data_shieldsio.json
 
       - name: Publish citation data
+        if: steps.fetch.outcome == 'success'
         run: |
           cp /tmp/gs_data.json gs_data.json
           cp /tmp/gs_data_shieldsio.json gs_data_shieldsio.json

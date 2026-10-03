@@ -1,4 +1,4 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import jsonpickle
 import json
 from datetime import datetime
@@ -6,12 +6,21 @@ import os
 import time
 
 # 重试机制
-max_retries = 3
+max_retries = int(os.environ.get('MAX_RETRIES', '3'))
 retry_delay = 10  # 秒
 
 scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID')
 if not scholar_id:
     raise ValueError("请设置环境变量 GOOGLE_SCHOLAR_ID")
+
+# GitHub Actions 的出口 IP 会被 Google Scholar 拒绝，必须经代理访问。
+if os.environ.get('USE_FREE_PROXIES') == '1':
+    pg = ProxyGenerator()
+    if pg.FreeProxies():
+        scholarly.use_proxy(pg)
+        print("已启用免费代理池。")
+    else:
+        print("警告：免费代理池不可用，将直连访问。")
 
 for attempt in range(max_retries):
     try:
