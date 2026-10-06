@@ -13,6 +13,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
         with:
@@ -28,6 +29,10 @@ jobs:
 
       - name: Fetch Google Scholar data
         id: fetch
+        timeout-minutes: 5
+        # Google Scholar 经常直接拒绝 GitHub runner 的出口 IP。抓取失败时
+        # 只发一条 warning，不让整个 workflow 变红——本机跑 ./update_scholar.sh 才是可靠路径。
+        continue-on-error: true
         env:
           GOOGLE_SCHOLAR_ID: amozZDkAAAAJ
           MAX_RETRIES: "3"
@@ -36,6 +41,11 @@ jobs:
           python main.py
           cp results/gs_data.json /tmp/gs_data.json
           cp results/gs_data_shieldsio.json /tmp/gs_data_shieldsio.json
+
+      - name: Report skipped update
+        if: steps.fetch.outcome != 'success'
+        run: |
+          echo "::warning::Google Scholar fetch failed (likely IP-blocked on the runner). Citation data left unchanged; run ./update_scholar.sh locally to refresh."
 
       - name: Publish citation data
         if: steps.fetch.outcome == 'success'

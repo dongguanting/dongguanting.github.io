@@ -46,8 +46,8 @@ for attempt in range(max_retries):
             print(f"{retry_delay} 秒后重试...")
             time.sleep(retry_delay)
 
-if author is None:
-    # 直连全部失败，多半是出口 IP 被 Google Scholar 拦截（GitHub Actions 常见）。
+if author is None and os.environ.get('USE_FREE_PROXIES') == '1':
+    # 免费代理池可能耗时很久且基本不可用，默认关闭，只在显式开启时兜底。
     print("直连全部失败，尝试改用免费代理池...")
     if enable_free_proxies():
         try:
