@@ -26,6 +26,8 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 
 </div>
 
+<p style="color: #c00000; font-weight: bold;">🔍 Seeking for positions at Frontier labs (e.g. OpenAI, Anthropic, Gemini, Meta, xAI). Open to Singapore.</p>
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 <style>
