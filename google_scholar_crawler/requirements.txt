@@ -1,3 +1,7 @@
 jsonpickle==1.4.2
 scholarly==1.5.1
-free-proxy
+# scholarly 1.5.1 imports bibtexparser.bibdatabase, which 2.x removed.
+# Python >=3.10 resolves to bibtexparser 2.x unless pinned, breaking `import scholarly`.
+bibtexparser<2
+# scholarly 1.5.1 calls FreeProxy.get_proxy_list() with no args; 1.1+ made `repeat` required.
+free-proxy<1.1

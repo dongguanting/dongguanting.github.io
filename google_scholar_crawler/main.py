@@ -13,34 +13,55 @@ scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID')
 if not scholar_id:
     raise ValueError("请设置环境变量 GOOGLE_SCHOLAR_ID")
 
-# GitHub Actions 的出口 IP 会被 Google Scholar 拒绝，必须经代理访问。
-if os.environ.get('USE_FREE_PROXIES') == '1':
-    pg = ProxyGenerator()
-    if pg.FreeProxies():
-        scholarly.use_proxy(pg)
-        print("已启用免费代理池。")
-    else:
-        print("警告：免费代理池不可用，将直连访问。")
 
+def fetch():
+    author: dict = scholarly.search_author_id(scholar_id)
+    scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+    return author
+
+
+def enable_free_proxies():
+    """免费代理池质量很差，只在直连失败后当兜底用。"""
+    try:
+        pg = ProxyGenerator()
+        if pg.FreeProxies():
+            scholarly.use_proxy(pg)
+            return True
+        print("免费代理池没有可用节点。")
+    except Exception as e:
+        print(f"启用免费代理池失败: {e}")
+    return False
+
+
+author = None
 for attempt in range(max_retries):
     try:
         print(f"正在尝试获取 Google Scholar 数据 (尝试 {attempt + 1}/{max_retries})...")
-        author: dict = scholarly.search_author_id(scholar_id)
-        scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+        author = fetch()
         print("成功获取数据！")
         break
     except Exception as e:
+        print(f"尝试 {attempt + 1} 失败: {e}")
         if attempt < max_retries - 1:
-            print(f"尝试 {attempt + 1} 失败: {str(e)}")
             print(f"{retry_delay} 秒后重试...")
             time.sleep(retry_delay)
-        else:
-            print(f"所有尝试均失败。可能是 Google Scholar 的反爬虫限制或网络问题。")
-            print("建议：")
-            print("1. 稍后再试")
-            print("2. 使用 GitHub Actions 自动更新（推荐）")
-            print("3. 检查网络连接或使用代理")
-            raise
+
+if author is None:
+    # 直连全部失败，多半是出口 IP 被 Google Scholar 拦截（GitHub Actions 常见）。
+    print("直连全部失败，尝试改用免费代理池...")
+    if enable_free_proxies():
+        try:
+            author = fetch()
+            print("通过代理成功获取数据！")
+        except Exception as e:
+            print(f"通过代理获取仍然失败: {e}")
+
+if author is None:
+    raise SystemExit(
+        "所有尝试均失败。常见原因：Google Scholar 反爬虫拦截了当前出口 IP。\n"
+        "在本机运行 ./update_scholar.sh 通常可以成功。"
+    )
+
 name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
