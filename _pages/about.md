@@ -73,6 +73,10 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 - <span style="font-size: 0.92em;">**2024.09 - Present** | <img src="/images/ruc.webp" style="width: 1em;"> **Ph.D. in Artificial Intelligence**</span>  
   Gaoling School of Artificial Intelligence, Renmin University of China
 
+- <span style="font-size: 0.92em; color: #c00000;">**2024.10 - 2025.04** | <img src="/images/nus.webp" style="width: 1em;"> **Visiting Ph.D. Student, NExT++ Research Center**</span>  
+  <span style="color: #c00000;">School of Computing, National University of Singapore<br>
+  Advisor: [Prof. Tat-Seng Chua](https://scholar.google.com/citations?user=3kz6GDEAAAAJ&hl=en)</span>
+
 - <span style="font-size: 0.92em;">**2021.09 - 2024.06** | <img src="/images/bupt.webp" style="width: 1em;"> **M.Eng in Artificial Intelligence**</span>  
   Beijing University of Posts and Telecommunications
 
