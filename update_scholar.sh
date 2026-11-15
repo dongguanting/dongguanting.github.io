@@ -5,7 +5,11 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
-GOOGLE_SCHOLAR_ID=amozZDkAAAAJ python3 google_scholar_crawler/main.py > /dev/null
+# main.py 把结果写到「当前工作目录/results/」；在 crawler 目录下运行，避免写到错误路径
+(
+  cd google_scholar_crawler
+  GOOGLE_SCHOLAR_ID=amozZDkAAAAJ python3 main.py > /dev/null
+)
 
 cp google_scholar_crawler/results/gs_data.json gs_data.json
 cp google_scholar_crawler/results/gs_data_shieldsio.json gs_data_shieldsio.json
@@ -16,4 +20,4 @@ d = json.load(open('gs_data.json'))
 print(f"citedby={d['citedby']}  h-index={d['hindex']}  publications={len(d['publications'])}  updated={d['updated']}")
 PY
 
-echo "已更新 gs_data.json / gs_data_shieldsio.json，记得 commit 并 push 到 master。"
+echo "已更新 gs_data.json / gs_data_shieldsio.json，记得 commit 并 push 到 master（线上 badge 读 GitHub raw）。"
