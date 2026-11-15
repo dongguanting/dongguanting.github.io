@@ -15,7 +15,7 @@ redirect_from:
 
 I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
 
-I am currently a research intern and tech lead for MCP tool use, productivity, and harness engineering in the Foundation LLM Team at [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, I held research intern positions at [ByteDance Seed](https://seed.bytedance.com/zh/) (Top Seed Program), the [Alibaba Qwen Team](https://github.com/QwenLM), the [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **50+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
+I am currently a Lead for MCP Tool Use, Working Agent and Harness Engineering in the Foundation LLM Team at [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, I held research intern positions at [ByteDance Seed](https://seed.bytedance.com/zh/) (Top Seed Program), the [Alibaba Qwen Team](https://github.com/QwenLM), the [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **50+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
 
 ### Research Interests：
 - **General Agent Training** — Training long-horizon agents with scalable real-world interaction capabilities
@@ -39,16 +39,19 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 </style>
 <div class="news-scroll compact-section">
 <ul>
+<li><em>2026.10</em>: 🚀 Released <a href="https://arxiv.org/abs/2611.03178"><strong>CoworkOS</strong></a>, a general-purpose harness for scaling agent coworkers toward real-world automation! Competitive with Codex and DeepSeek Harness across 12 benchmarks, with RSI-driven automated post-training lifting Qwen3.6-35B-A3B by +9.76. (<a href="https://coworkos-ai.github.io/">Project</a> / <a href="https://github.com/RUC-NLPIR/CoworkOS">GitHub</a> / <a href="https://coworkos-ai.github.io/showcase.html">Demo Gallery</a>)</li>
+<li><em>2026.10</em>: 🚀 Released <a href="https://arxiv.org/abs/2611.05036"><strong>ToolSpace</strong></a>, a tool-centric framework for scaling environment synthesis for long-horizon agents! Raises Qwen3.6-35B-A3B from 23.0 to 41.0 avg. (43.2 with RL) and GLM-5.2 from 44.6 to 56.6, on par with Claude Opus 5. (<a href="https://toolspace-agent.github.io/">Project</a> / <a href="https://github.com/dongguanting/ToolSpace">GitHub</a> / <a href="https://huggingface.co/collections/dongguanting/toolspace">🤗 Models</a>)</li>
 <li><em>2026.09</em>: 🚀 Released <a href="https://arxiv.org/abs/2609.15818"><strong>Atria Dawn</strong></a> (书生·星河), a fully open-source 744B general agentic model from the <strong>InternLM Team</strong>! As a core contributor, I led MCP tool use, productivity scenarios, and Agent Harness engineering — reaching SOTA on AutomationBench, SkillsBench, τ³-Bench Banking, and Workspace-Bench. (<a href="https://github.com/atria-asi/Atria-Dawn-Preview">GitHub</a> / <a href="https://huggingface.co/internlm/Atria-Dawn-Preview">🤗 Model</a>)</li>
 <li><em>2026.09</em>: 🔥 <a href="https://huggingface.co/internlm/Atria-Dawn-Preview"><strong>Atria Dawn</strong></a> ranked <strong>#1 on Hugging Face Models Trending</strong> and topped the X daily trending list with <strong>4.4M views</strong>, serving ~200B tokens per day.</li>
-<li><em>2026.09</em>: 🚀 Joined the Foundation LLM Team at <a href="https://www.shlab.org.cn/"><strong>Shanghai AI Laboratory</strong></a> as a Research Intern and tech lead for MCP Tool Use, Productivity, and Harness Engineering.</li>
+<li><em>2026.09</em>: 🚀 Joined the Foundation LLM Team at <a href="https://www.shlab.org.cn/"><strong>Shanghai AI Laboratory</strong></a> as Lead for MCP Tool Use, Working Agent and Harness Engineering.</li>
 <li><em>2026.09</em>: 🎉 Honored to receive the 2026 <a href="https://mp.weixin.qq.com/s/-IREGc4AndOf5hjP98wPOQ"><strong>Ant InTech Scholarship</strong></a>!</li>
 <li><em>2026.07</em>: 📚 Released <a href="https://openreview.net/pdf?id=HyhfhlbWGh"><strong>Towards Long-Horizon Agents: A Survey</strong></a>! Check out our curated reading list on <a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub</a>.</li>
 <li><em>2026.06</em>: 🚀 Released <a href="https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf"><strong>Seed2.1 Model Card</strong></a> — a next-generation agent for real-world productivity! Honored to be a core contributor. (<a href="https://seed.bytedance.com/en/seed2_1">Homepage</a>)</li>
-<li><em>2026.06</em>: 🏆 Selected as <a href="https://hub.baai.ac.cn/view/55541"><strong>青源InnoVibe 2026——最受瞩目学术新星</strong></a> at BAAI Conference 2026!</li>
+<li><em>2026.06</em>: 🏆 Selected as <a href="https://hub.baai.ac.cn/view/55541"><strong>智源 青源InnoVibe 2026 最受瞩目学术新星</strong></a> at BAAI Conference 2026!</li>
 <li><em>2026.06</em>: 🎉 Honored to receive the <a href="https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw"><strong>“瓴航”院长奖学金</strong></a>!</li>
 <li><em>2026.04</em>: 🚀 Released <a href="https://arxiv.org/pdf/2604.18292"><strong>Agent-World</strong></a>, scaling real-world environment synthesis for evolving general agent intelligence! Check out our <a href="https://agent-tars-world.github.io/-/">demo</a>!</li>
 <li><em>2026.03</em>: 🎉 <a href="https://arxiv.org/abs/2505.16410">Tool-Star</a>, <a href="https://arxiv.org/pdf/2507.19849">ARPO</a>, and <a href="https://arxiv.org/abs/2510.14545">AEPO</a> accepted at <strong>SIGIR 2026</strong>, <strong>ICLR 2026</strong>, and <strong>WWW 2026</strong>! Welcome to follow our Agent RL family.</li>
+<li><em>2026.02</em>: 🎉 Honored to receive the 2026 <a href="https://scholarship.baidu.com/scholarship/home"><strong>Baidu Scholarship</strong></a> (<strong>百度奖学金, 全国10人</strong>). Thanks to my teachers and co-authors for their support!</li>
 <li><em>2026.02</em>: 🎉 Honored to receive the 2026 <a href="https://join.qq.com/scholarship.html"><strong>Tencent Project Up Scholarship</strong></a> (<strong>首届腾讯青云奖学金, 全国15人</strong>). Thanks to my teachers and co-authors for their support!</li>
 <li><em>2026.02</em>: 🚀 We released <a href="https://arxiv.org/abs/2607.00248">Seed2.0</a>. As a core contributor, I am responsible for the core MCP tool-use agent capability. (MCPMark 54.7, BFCL-V4 73.4, VitaBench 47).</li>
 <li><em>2026.02</em>: 🚀 Released <a href="https://arxiv.org/pdf/2602.22897">OmniGAIA</a>, building native omni-modal AI agents!</li>
@@ -94,13 +97,13 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 <div class="compact-section" markdown="1">
 
 - <span style="font-size: 0.92em;">**2026.09 - Present** | <img src="/images/shanghai_ai_lab.png" style="width: 2.5em;"> **Shanghai AI Laboratory, Foundation LLM Team**</span><br>
-  <span style="font-size: 0.869em;">- Research Intern and tech lead for MCP Tool Use, Productivity, and Harness Engineering<br>- Mentor: [Tao Gui](https://scholar.google.com/citations?user=BrOLQdwAAAAJ&hl=en)</span>
+  <span style="font-size: 0.869em;">- Lead for MCP Tool Use, Working Agent and Harness Engineering<br>- Mentor: [Tao Gui](https://scholar.google.com/citations?user=BrOLQdwAAAAJ&hl=en)</span>
 
 - <span style="font-size: 0.92em;">**2025.11 - 2026.09** | <img src="/images/bytedance.png" style="width: 3.4em;"> **ByteDance, Seed General Agent Team**</span><br>
-  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: red;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
+  <span style="font-size: 0.869em;">- Research Intern on RL for General Agent <span style="color: #c00000;">(Top Seed Program)</span><br>- Mentors: [Wanjun Zhong](https://scholar.google.com/citations?user=FGIZfyQAAAAJ&hl=zh-CN), [Yujia Qin](https://scholar.google.com/citations?user=njm-G8wAAAAJ&hl=zh-TW)</span>
 
 - <span style="font-size: 0.92em;">**2025.04 - 2025.11** | <img src="/images/kuaishou_v2.png" style="width: 2.8em;"> **Kuaishou, Foundation LLM Team**</span>  
-  <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: red;">(K-Star Program)</span><br>- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
+  <span style="font-size: 0.869em;">- Research Intern on Agentic RL & Deep Search Agent <span style="color: #c00000;">(K-Star Program)</span><br>- Mentors: [Hangyu Mao](https://scholar.google.com/citations?user=EtVHsgcAAAAJ&hl=zh-CN&oi=ao), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN)</span>
 
 - <span style="font-size: 0.92em;">**2023.06 - 2024.08** | <img src="/images/alibaba.png" style="width: 2.4em;"> **Alibaba, <img src="/images/qwen_logo.webp" style="width: 1em;" /> Qwen Foundation LLM Team**</span>  
   <span style="font-size: 0.869em;">- Research Intern on Alignment & Reasoning of Large Language Models<br>- Mentors: [Bowen Yu](https://scholar.google.com/citations?user=oHoEp34AAAAJ&hl=zh-CN), [Zheng Yuan](https://scholar.google.com/citations?user=kRgiVnUAAAAJ&hl=zh-CN), [Wei Wang](https://scholar.google.com/citations?user=0zSeT3oAAAAJ&hl=zh-CN), [Keming Lu](https://scholar.google.com/citations?user=T7_gdokAAAAJ&hl=zh-CN)</span>
@@ -115,9 +118,17 @@ My long-term goal is to develop **automated, scalable, and safe approaches that 
 \* for corresponding author, <sup>\#</sup> for equal contribution.
 _Recent representative preprints._
 
+- <span class="paper-title" style="font-size: 0.92em;">[**CoworkOS: Scaling Agent Coworkers for Real-world Automation**](https://arxiv.org/abs/2611.03178)</span>\
+<span class="paper-authors" style="font-size: 0.869em;"> Jiajie Jin<sup>\#</sup>, **Guanting Dong**<sup>\#</sup>, Chengjun Pan<sup>\#</sup>, Xin Deng, Zhuohui Sheng, Guoqiang Wang, Tao Gui<sup>*</sup>, Yutao Zhu<sup>*</sup>, et al. (CoworkOS Team)</span>\
+<a href="https://coworkos-ai.github.io/" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://github.com/RUC-NLPIR/CoworkOS"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/CoworkOS?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href="https://coworkos-ai.github.io/showcase.html" class="paper-link-badge homepage-badge"><i class="fas fa-images" aria-hidden="true"></i> Demo Gallery</a> <a href="https://huggingface.co/papers/2611.03178" class="hf-paper-badge"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="">HF Daily Paper #2</a>
+
+- <span class="paper-title" style="font-size: 0.92em;">[**ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents**](https://arxiv.org/abs/2611.05036)</span>\
+<span class="paper-authors" style="font-size: 0.869em;"> **Guanting Dong**<sup>\#</sup>, Zhichao Sun<sup>\#</sup>, Xinyu Yang<sup>\#</sup>, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui<sup>*</sup>, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou<sup>*</sup>.</span>\
+<a href="https://toolspace-agent.github.io/" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://github.com/dongguanting/ToolSpace"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/ToolSpace?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href="https://huggingface.co/collections/dongguanting/toolspace" class="hf-paper-badge"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="">Models</a>
+
 - <span class="paper-title" style="font-size: 0.92em;">[**Towards Long-Horizon Agents: A Survey**](https://openreview.net/pdf?id=HyhfhlbWGh)</span>\
 <span class="paper-authors" style="font-size: 0.869em;"> **Guanting Dong**, Xiaoshuai Song, Yuyang Hu, Jiajie Jin, Chenghao Zhang, Yifei Chen, Xiaoxi Li, Huaying Yuan, Xinyu Yang, Tongyu Wen, Jiejun Tan, Hongjin Qian, Shijue Huang, Junting Lu, Zhenyu Li, Wanjun Zhong, Yutao Zhu, Tat-Seng Chua, Zhicheng Dou, Ji-Rong Wen.</span>\
-<a href="https://long-horizon-agents.github.io/" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/Awesome-Long-Horizon-Agents?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href="https://mp.weixin.qq.com/s/r9YJYlVAyBZtfMXvAOh5ig" class="paper-link-badge blog-badge"><i class="fab fa-weixin" aria-hidden="true"></i> Wechat Blog</a>
+<a href="https://long-horizon-agents.github.io/" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/Awesome-Long-Horizon-Agents?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13209488162556495664,12630095737486323424'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fmaster%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AgVv57TyPmFsC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href="https://mp.weixin.qq.com/s/r9YJYlVAyBZtfMXvAOh5ig" class="paper-link-badge blog-badge"><i class="fab fa-weixin" aria-hidden="true"></i> Wechat Blog</a>
 
 - <span class="paper-title" style="font-size: 0.92em;">[**Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence**](https://arxiv.org/pdf/2604.18292)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span class="paper-authors" style="font-size: 0.869em;"> **Guanting Dong**, Junting Lu, Junjie Huang, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou.</span>\
@@ -141,7 +152,7 @@ _Recent representative preprints._
 
 - <span class="paper-title" style="font-size: 0.92em;">[**Seed2.1 Model Card: A Next-Generation Agent for Real-World Productivity**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2.1/Seed2_1_Model_Card.pdf)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span class="paper-authors" style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>\
-<a href="https://seed.bytedance.com/en/seed2_1" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://scholar.google.com/scholar?q=Seed2.1+officially+released+Advancing+AI+productivity"><img alt="Google Scholar citations" src="https://img.shields.io/badge/Citations-4-white?style=flat-square&logo=Google%20Scholar&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+<a href="https://seed.bytedance.com/en/seed2_1" class="paper-link-badge homepage-badge"><i class="fas fa-home" aria-hidden="true"></i> Homepage</a> <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7993142557887822987,17976894061810765919"><img alt="Google Scholar citations" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fmaster%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AsJsF-0ZLhtgC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
 - <span class="paper-title" style="font-size: 0.92em;">[**Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity**](https://arxiv.org/abs/2607.00248)</span> <img src="/images/bytedance.png" style="width: 4.8em; height: 1.8em;">\
 <span class="paper-authors" style="font-size: 0.869em;"> ByteDance Seed Team (core contributors including **Guanting Dong**).</span>\
@@ -320,7 +331,8 @@ _Selected peer-reviewed publications._
 
 ### Scholarships 
 - 2026: **[Ant InTech Scholarship](https://mp.weixin.qq.com/s/-IREGc4AndOf5hjP98wPOQ)** (<span style="color: #c00000;">**2026 蚂蚁InTech奖学金, 全球华人10人**</span>)
-- 2026: **[青源InnoVibe 2026——最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** (BAAI Conference 2026)
+- 2026: **[Baidu Scholarship](https://scholarship.baidu.com/scholarship/home)** (<span style="color: #c00000;">**2026 百度奖学金, 全国10人**</span>)
+- 2026: **[智源 青源InnoVibe 2026 最受瞩目学术新星](https://hub.baai.ac.cn/view/55541)** (BAAI Conference 2026)
 - 2026: **[“瓴航”院长奖学金](https://mp.weixin.qq.com/s/hdKxh8iF48H-d_FS3uqQkw)**
 - 2026: **[Tencent Project Up Scholarship](https://join.qq.com/scholarship.html)** (<span style="color: #c00000;">**首届腾讯青云奖学金, 全国15人**</span>)
 - 2025: **National Scholarship for Ph.D. Students** (博士生国家奖学金, Top 1%)
@@ -341,11 +353,14 @@ _Selected peer-reviewed publications._
 
 <div class="compact-section" markdown="1">
 
+- *2026.11*: **"迈向通用智能体训练"**, 深蓝学院, [Link](http://www.shenlanxueyuan.com/open/course/323)
+- *2026.08*: **"迈向长程智能体"**, 人民大学高瓴学院 / 智源社区, [Link](https://hub.baai.ac.cn/users/97234)
 - *2026.06*: **"探索通用智能体训练的可行路径"**, 青稞 Talk 129, [Link](https://qingkeai.online/archives/ARPO-AEPO-Agent-World) / [Bilibili](https://www.bilibili.com/video/BV1bFEg6ZEry/) / [YouTube](https://youtu.be/iZ_8VXeXURY)
 - *2026.06*: **《迈向通用智能体训练》**, BAAI Conference 2026, [Link](https://hub.baai.ac.cn/view/55718)
 - *2026.05*: **"Agent-World，让智能体与环境协同进化"**, 中国AI智能体大会, [Link](https://mp.weixin.qq.com/s/uW9lSzyV84eCL_L-5ny5Nw)
 - *2026.05*: **"Agent-World，让智能体与环境协同进化"**, NICE Talk NO.175, [Link](https://luma.com/a8fnx243)
 - *2025.11*: **"Agentic Reinforcement Policy Optimization"**, MLNLP Community, [Slides](https://mp.weixin.qq.com/s/0nwK7_dodh5vUZSRKHt57Q)
+- *2025.10*: **"Agentic Reinforcement Policy Optimization"**, 2025 X智能大会 & 第18届中国R会议, [Link](http://cfas.ruc.edu.cn/xwgg/zxtz/6362c480ee4942159a67aeeba534d4ce.htm)
 - *2025.10*: **"Agentic Reinforcement Policy Optimization"**, EvoAgentX Community, [Slides](https://www.xiaohongshu.com/explore/68ff6b72000000000303575f)
 - *2025.09*: **"Agentic Reinforcement Policy Optimization"**, HunYuan Team, Tencent
 - *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ)
